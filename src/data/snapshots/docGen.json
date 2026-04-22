@@ -1,0 +1,1833 @@
+{
+  "page": "/doc-gen",
+  "pageProps": {
+    "pageData": {
+      "id": 1,
+      "featuresTitle": "How Ema helps your team grow",
+      "useCasesTitle": "Ema's document writer AI employees",
+      "whyHireEmaTitle": "Why hire Ema?",
+      "createdAt": "2024-12-11T19:50:15.272Z",
+      "updatedAt": "2025-07-02T14:21:08.404Z",
+      "publishedAt": "2024-12-12T06:44:12.238Z",
+      "faqSectionTitle": "Document Generation FAQs",
+      "documentId": "jt6z3ol2hd96o6sp5461a7ym",
+      "hero": {
+        "id": 1,
+        "preTitle": "YOUR AI POWERED DOCUMENT WRITER ",
+        "title": "Create quality business docs 10x faster",
+        "description": "Harness the power of Agentic AI to generate accurate, customized and high-quality documents. Ema is your one-stop shop for managing the entire document generation life cycle, from research to editing and approval — all using natural language."
+      },
+      "heroStats": {
+        "id": 1,
+        "stat": [
+          {
+            "id": 1,
+            "value": "10x",
+            "label": "Faster document generation"
+          },
+          {
+            "id": 2,
+            "value": "20%",
+            "label": "Increased win rate with precise proposals"
+          },
+          {
+            "id": 3,
+            "value": "80%",
+            "label": "Reduced research time"
+          }
+        ]
+      },
+      "featureCards": {
+        "id": 1,
+        "card": [
+          {
+            "id": 1,
+            "title": "Collaborate simultaneously with AI and your team",
+            "description": "Ema empowers your team with real-time collaboration, section level generation, progress tracking, and seamless team alignment.",
+            "textColor": "text-black"
+          },
+          {
+            "id": 2,
+            "title": "Create visually enriched content",
+            "description": "Create well-formatted documents, presentations, and spreadsheets that are ready to ship with relevant images and charts made by Ema.",
+            "textColor": "text-black"
+          },
+          {
+            "id": 3,
+            "title": "Precise and explainable content",
+            "description": "Easily control Ema's sources, behavior, and workflow with clear, deep explanations for all generated content.",
+            "textColor": "text-black"
+          },
+          {
+            "id": 4,
+            "title": "Harness the power of EmaFusion™",
+            "description": "EmaFusion™ combines the best models to achieve the highest accuracy with lowest costs.",
+            "textColor": "text-black"
+          },
+          {
+            "id": 5,
+            "title": "Continuously improving",
+            "description": "Ema takes feedback from humans to improve her output and instantly regenerates sections to meet your expectations.",
+            "textColor": "text-white"
+          }
+        ]
+      },
+      "useCases": {
+        "id": 1,
+        "case": [
+          {
+            "id": 1,
+            "title": "Business Proposal Writer",
+            "description": "Respond to RFPs with customized, professional proposals in minutes.",
+            "image": {
+              "id": 665,
+              "name": "business-proposal-writer.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 410,
+              "height": 455,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_business_proposal_writer_03f300f3b5.png",
+                  "hash": "thumbnail_business_proposal_writer_03f300f3b5",
+                  "mime": "image/png",
+                  "name": "thumbnail_business-proposal-writer.png",
+                  "path": null,
+                  "size": 6.56,
+                  "width": 141,
+                  "height": 156,
+                  "sizeInBytes": 6558
+                }
+              },
+              "hash": "business_proposal_writer_03f300f3b5",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 4.77,
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/business_proposal_writer_03f300f3b5.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2024-12-16T14:34:40.457Z",
+              "updatedAt": "2024-12-16T14:34:40.457Z",
+              "documentId": "cs3mjbiq3mor8ldd8h7p0fqz",
+              "publishedAt": "2025-10-30T06:16:42.442Z"
+            }
+          },
+          {
+            "id": 2,
+            "title": "Prospectus Builder",
+            "description": "Generate comprehensive prospectuses by integrating financial data and industry insights in real-time.",
+            "image": {
+              "id": 666,
+              "name": "prospectus-builder.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 513,
+              "height": 510,
+              "formats": {
+                "small": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_prospectus_builder_f0081d7410.png",
+                  "hash": "small_prospectus_builder_f0081d7410",
+                  "mime": "image/png",
+                  "name": "small_prospectus-builder.png",
+                  "path": null,
+                  "size": 58.62,
+                  "width": 500,
+                  "height": 497,
+                  "sizeInBytes": 58621
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_prospectus_builder_f0081d7410.png",
+                  "hash": "thumbnail_prospectus_builder_f0081d7410",
+                  "mime": "image/png",
+                  "name": "thumbnail_prospectus-builder.png",
+                  "path": null,
+                  "size": 11.17,
+                  "width": 157,
+                  "height": 156,
+                  "sizeInBytes": 11165
+                }
+              },
+              "hash": "prospectus_builder_f0081d7410",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 10.56,
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/prospectus_builder_f0081d7410.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2024-12-16T14:34:59.473Z",
+              "updatedAt": "2024-12-16T14:34:59.473Z",
+              "documentId": "hi1kxn246yeaitan1rvimwu9",
+              "publishedAt": "2025-10-30T06:16:42.442Z"
+            }
+          },
+          {
+            "id": 8,
+            "title": "Business Presentation Builder",
+            "description": "Transform ideas into visually compelling, professionally formatted slides tailored for your business needs to produce engaging, on-brand presentations.",
+            "image": {
+              "id": 673,
+              "name": "BizPPT.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 595,
+              "height": 372,
+              "formats": {
+                "small": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_Biz_PPT_27b7a6a361.png",
+                  "hash": "small_Biz_PPT_27b7a6a361",
+                  "mime": "image/png",
+                  "name": "small_BizPPT.png",
+                  "path": null,
+                  "size": 68.8,
+                  "width": 500,
+                  "height": 313,
+                  "sizeInBytes": 68800
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_Biz_PPT_27b7a6a361.png",
+                  "hash": "thumbnail_Biz_PPT_27b7a6a361",
+                  "mime": "image/png",
+                  "name": "thumbnail_BizPPT.png",
+                  "path": null,
+                  "size": 22.92,
+                  "width": 245,
+                  "height": 153,
+                  "sizeInBytes": 22919
+                }
+              },
+              "hash": "Biz_PPT_27b7a6a361",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 16,
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/Biz_PPT_27b7a6a361.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2024-12-16T17:11:01.514Z",
+              "updatedAt": "2024-12-16T17:11:01.514Z",
+              "documentId": "r4regm6gwsxy8e5cojl8wzdd",
+              "publishedAt": "2025-10-30T06:16:42.442Z"
+            }
+          },
+          {
+            "id": 3,
+            "title": "Sales Intelligence Analyst",
+            "description": "Turn raw sales data into polished reports, tailored for decision-makers.",
+            "image": {
+              "id": 667,
+              "name": "sales-intelligence-analytics.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 530,
+              "height": 506,
+              "formats": {
+                "small": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_sales_intelligence_analytics_c7c3cc7282.png",
+                  "hash": "small_sales_intelligence_analytics_c7c3cc7282",
+                  "mime": "image/png",
+                  "name": "small_sales-intelligence-analytics.png",
+                  "path": null,
+                  "size": 56.34,
+                  "width": 500,
+                  "height": 477,
+                  "sizeInBytes": 56342
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_sales_intelligence_analytics_c7c3cc7282.png",
+                  "hash": "thumbnail_sales_intelligence_analytics_c7c3cc7282",
+                  "mime": "image/png",
+                  "name": "thumbnail_sales-intelligence-analytics.png",
+                  "path": null,
+                  "size": 11.63,
+                  "width": 163,
+                  "height": 156,
+                  "sizeInBytes": 11627
+                }
+              },
+              "hash": "sales_intelligence_analytics_c7c3cc7282",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 9.84,
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/sales_intelligence_analytics_c7c3cc7282.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2024-12-16T14:35:23.307Z",
+              "updatedAt": "2024-12-16T14:35:23.307Z",
+              "documentId": "dqxk2y6j4kr2w9umel56dxod",
+              "publishedAt": "2025-10-30T06:16:42.442Z"
+            }
+          },
+          {
+            "id": 5,
+            "title": "Legal Document Assistant",
+            "description": "Streamline complex legal paperwork with precise, accurate, and ready-to-submit documents.",
+            "image": {
+              "id": 668,
+              "name": "legal-document-writer.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 421,
+              "height": 467,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_legal_document_writer_e4f5e2b723.png",
+                  "hash": "thumbnail_legal_document_writer_e4f5e2b723",
+                  "mime": "image/png",
+                  "name": "thumbnail_legal-document-writer.png",
+                  "path": null,
+                  "size": 10.18,
+                  "width": 141,
+                  "height": 156,
+                  "sizeInBytes": 10184
+                }
+              },
+              "hash": "legal_document_writer_e4f5e2b723",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 5.92,
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/legal_document_writer_e4f5e2b723.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2024-12-16T14:35:42.702Z",
+              "updatedAt": "2024-12-16T14:35:42.702Z",
+              "documentId": "c6njuwsz2qgiirs5dea29snl",
+              "publishedAt": "2025-10-30T06:16:42.442Z"
+            }
+          },
+          {
+            "id": 4,
+            "title": "Market Research Analyst",
+            "description": "Analyze industry and analyst reports from verified publishers, customer sentiment and competitors in minutes.",
+            "image": {
+              "id": 669,
+              "name": "market-research-analyst.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 411,
+              "height": 455,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_market_research_analyst_03020543fb.png",
+                  "hash": "thumbnail_market_research_analyst_03020543fb",
+                  "mime": "image/png",
+                  "name": "thumbnail_market-research-analyst.png",
+                  "path": null,
+                  "size": 8.03,
+                  "width": 141,
+                  "height": 156,
+                  "sizeInBytes": 8027
+                }
+              },
+              "hash": "market_research_analyst_03020543fb",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 5.21,
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/market_research_analyst_03020543fb.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2024-12-16T14:36:02.581Z",
+              "updatedAt": "2024-12-16T14:36:02.581Z",
+              "documentId": "p5r79lu7zf8tgmdqxykiltfq",
+              "publishedAt": "2025-10-30T06:16:42.442Z"
+            }
+          },
+          {
+            "id": 6,
+            "title": "Business Contract Writer",
+            "description": "Create compliant and tailored business contracts such as MSAs, SOWs, Business Agreement Documents, and MOUs.",
+            "image": {
+              "id": 670,
+              "name": "business-contract-writer.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 411,
+              "height": 455,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_business_contract_writer_12dd066d6f.png",
+                  "hash": "thumbnail_business_contract_writer_12dd066d6f",
+                  "mime": "image/png",
+                  "name": "thumbnail_business-contract-writer.png",
+                  "path": null,
+                  "size": 8.18,
+                  "width": 141,
+                  "height": 156,
+                  "sizeInBytes": 8182
+                }
+              },
+              "hash": "business_contract_writer_12dd066d6f",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 5.69,
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/business_contract_writer_12dd066d6f.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2024-12-16T14:36:19.776Z",
+              "updatedAt": "2024-12-16T14:36:19.776Z",
+              "documentId": "u4f8zit57mj2gr68c0lkluvs",
+              "publishedAt": "2025-10-30T06:16:42.442Z"
+            }
+          },
+          {
+            "id": 7,
+            "title": "Technical Document Writer",
+            "description": "Generate detailed and structured troubleshooting guides, SOPs, runbooks, release notes, and engineering documents efficiently.",
+            "image": {
+              "id": 671,
+              "name": "technical-document-writer.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 531,
+              "height": 455,
+              "formats": {
+                "small": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_technical_document_writer_ca5f25881c.png",
+                  "hash": "small_technical_document_writer_ca5f25881c",
+                  "mime": "image/png",
+                  "name": "small_technical-document-writer.png",
+                  "path": null,
+                  "size": 42.84,
+                  "width": 500,
+                  "height": 428,
+                  "sizeInBytes": 42837
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_technical_document_writer_ca5f25881c.png",
+                  "hash": "thumbnail_technical_document_writer_ca5f25881c",
+                  "mime": "image/png",
+                  "name": "thumbnail_technical-document-writer.png",
+                  "path": null,
+                  "size": 10.67,
+                  "width": 182,
+                  "height": 156,
+                  "sizeInBytes": 10667
+                }
+              },
+              "hash": "technical_document_writer_ca5f25881c",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 7.29,
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/technical_document_writer_ca5f25881c.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2024-12-16T14:36:37.656Z",
+              "updatedAt": "2024-12-16T14:36:37.656Z",
+              "documentId": "uoyt18qkr4byn2mqnowzs0zt",
+              "publishedAt": "2025-10-30T06:16:42.442Z"
+            }
+          }
+        ]
+      },
+      "successStories": {
+        "id": 1,
+        "title": "Success story",
+        "subtitle": "50% more proposals produced, with greater precision than ever before.",
+        "challenge": [
+          {
+            "id": 7,
+            "title": "Challenge",
+            "description": "Reduce the time required to generate 300+ page proposals enriched with charts, images, tables, and real-time information - while ensuring accuracy, consistency, and enterprise-grade quality. ",
+            "challengeID": null,
+            "cta": null,
+            "ctaLink": null,
+            "badge": "PROPOSAL WRITER"
+          }
+        ],
+        "successStoriesStatList": [
+          {
+            "id": 11,
+            "challengeID": null,
+            "role": null,
+            "name": null,
+            "companyName": null,
+            "value": null,
+            "description": null,
+            "color": null,
+            "stat1Title": null,
+            "stat2Title": null,
+            "stat1SubTitle": null,
+            "stat2SubTitle": null,
+            "image": null
+          }
+        ]
+      },
+      "successStoriesStats": {
+        "id": 1,
+        "storiesStat": [
+          {
+            "id": 1,
+            "challengeID": null,
+            "role": null,
+            "name": null,
+            "companyName": null,
+            "value": "80%",
+            "description": "Faster Proposal creation",
+            "color": null,
+            "stat1Title": null,
+            "stat2Title": null,
+            "stat1SubTitle": null,
+            "stat2SubTitle": null,
+            "image": null
+          },
+          {
+            "id": 2,
+            "challengeID": null,
+            "role": null,
+            "name": null,
+            "companyName": null,
+            "value": "50%",
+            "description": "More proposal submissions as a result",
+            "color": null,
+            "stat1Title": null,
+            "stat2Title": null,
+            "stat1SubTitle": null,
+            "stat2SubTitle": null,
+            "image": null
+          }
+        ]
+      },
+      "whyHireEmaFeature": [
+        {
+          "id": 1,
+          "title": "Simple & Fast",
+          "description": "Simple and intuitive UX that generates 300+ page documents 10x faster.",
+          "icon": {
+            "id": 661,
+            "name": "simple-trusted.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 80,
+            "height": 80,
+            "formats": null,
+            "hash": "simple_trusted_ae2dae20ad",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 1.15,
+            "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/simple_trusted_ae2dae20ad.png",
+            "previewUrl": null,
+            "provider": "strapi-provider-upload-strapi-cloud",
+            "provider_metadata": null,
+            "createdAt": "2024-12-11T19:48:34.271Z",
+            "updatedAt": "2024-12-11T19:48:34.271Z",
+            "documentId": "k7lyla6675jmfrnz9arq9ikp",
+            "publishedAt": "2025-10-30T06:16:42.442Z",
+            "related": [
+              {
+                "__type": "doc-gen.why-hire-ema-feature",
+                "id": 16,
+                "title": "Simple & Fast",
+                "description": "Super intuitive UX that lets you share your requirements in natural language."
+              },
+              {
+                "__type": "doc-gen.why-hire-ema-feature",
+                "id": 10,
+                "title": "Simple & Fast",
+                "description": "Intuitive Agentic Dashboard that helps you easily set up and complete analyses using Agentic AI."
+              },
+              {
+                "__type": "doc-gen.why-hire-ema-feature",
+                "id": 4,
+                "title": "Simple & Fast",
+                "description": "Super intuitive UX that lets you share your requirements in natural language."
+              },
+              {
+                "__type": "doc-gen.why-hire-ema-feature",
+                "id": 1,
+                "title": "Simple & Fast",
+                "description": "Simple and intuitive UX that generates 300+ page documents 10x faster."
+              },
+              {
+                "__type": "doc-gen.why-hire-ema-feature",
+                "id": 13,
+                "title": "Simple & Fast",
+                "description": "Simple and intuitive UX that generates 300+ page documents 10x faster."
+              },
+              {
+                "__type": "doc-gen.why-hire-ema-feature",
+                "id": 8,
+                "title": "Simple & Fast",
+                "description": "Intuitive Agentic Dashboard that helps you easily set up and complete analyses using Agentic AI."
+              }
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "title": "Trusted",
+          "description": "Masks sensitive information from all documents before passing it to models. Compliant with leading standards like SOC 2 Type II, HIPAA, ISO 42001, ISO 27001, GDPR, NIST, etc. Ema also offers on-prem deployment.",
+          "icon": {
+            "id": 662,
+            "name": "trusted.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 80,
+            "height": 80,
+            "formats": null,
+            "hash": "trusted_8b1a8258a4",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 0.76,
+            "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/trusted_8b1a8258a4.png",
+            "previewUrl": null,
+            "provider": "strapi-provider-upload-strapi-cloud",
+            "provider_metadata": null,
+            "createdAt": "2024-12-11T19:48:34.285Z",
+            "updatedAt": "2024-12-11T19:48:34.285Z",
+            "documentId": "beoo0ye5ft9op0vermburp37",
+            "publishedAt": "2025-10-30T06:16:42.442Z",
+            "related": [
+              {
+                "__type": "doc-gen.why-hire-ema-feature",
+                "id": 14,
+                "title": "Trusted",
+                "description": "Masks sensitive information from all documents before passing it to models. Compliant with leading standards like SOC 2 Type II, HIPAA, ISO 42001, ISO 27001, GDPR, NIST, etc. Ema also offers on-prem deployment."
+              },
+              {
+                "__type": "doc-gen.why-hire-ema-feature",
+                "id": 2,
+                "title": "Trusted",
+                "description": "Masks sensitive information from all documents before passing it to models. Compliant with leading standards like SOC 2 Type II, HIPAA, ISO 42001, ISO 27001, GDPR, NIST, etc. Ema also offers on-prem deployment."
+              },
+              {
+                "__type": "doc-gen.why-hire-ema-feature",
+                "id": 7,
+                "title": "Trusted",
+                "description": "Masks sensitive information from all documents before passing it to models. Compliant with leading standards like SOC 2 Type II, HIPAA, ISO 42001, ISO 27001, GDPR, NIST, etc."
+              },
+              {
+                "__type": "doc-gen.why-hire-ema-feature",
+                "id": 17,
+                "title": "Trusted",
+                "description": "Secure PII-handling and protection from bias to ensure recruiting remains fair & transparent."
+              },
+              {
+                "__type": "doc-gen.why-hire-ema-feature",
+                "id": 5,
+                "title": "Trusted",
+                "description": "Secure PII-handling and protection from bias to ensure recruiting remains fair & transparent."
+              },
+              {
+                "__type": "doc-gen.why-hire-ema-feature",
+                "id": 11,
+                "title": "Trusted",
+                "description": "Masks sensitive information from all documents before passing it to models. Compliant with leading standards like SOC 2 Type II, HIPAA, ISO 42001, ISO 27001, GDPR, NIST, etc."
+              }
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "title": "Accurate",
+          "description": "Integrate live data from external sources that reflect latest, most relevant information.",
+          "icon": {
+            "id": 663,
+            "name": "accurate.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 80,
+            "height": 80,
+            "formats": null,
+            "hash": "accurate_5bb0b63c36",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 0.39,
+            "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/accurate_5bb0b63c36.png",
+            "previewUrl": null,
+            "provider": "strapi-provider-upload-strapi-cloud",
+            "provider_metadata": null,
+            "createdAt": "2024-12-11T19:48:34.326Z",
+            "updatedAt": "2024-12-11T19:48:34.326Z",
+            "documentId": "n8tejq7x937jbtwjduverbuy",
+            "publishedAt": "2025-10-30T06:16:42.442Z",
+            "related": [
+              {
+                "__type": "doc-gen.why-hire-ema-feature",
+                "id": 18,
+                "title": "Accurate",
+                "description": "Integrate live data from several external sources to create the most accurate candidate profiles and assessments."
+              },
+              {
+                "__type": "doc-gen.why-hire-ema-feature",
+                "id": 6,
+                "title": "Accurate",
+                "description": "Integrate live data from several external sources to create the most accurate candidate profiles and assessments."
+              },
+              {
+                "__type": "doc-gen.why-hire-ema-feature",
+                "id": 9,
+                "title": "Accurate",
+                "description": "EmaFusion™ ensures you get the highest quality of results by leverage hundreds of pre-trained models."
+              },
+              {
+                "__type": "doc-gen.why-hire-ema-feature",
+                "id": 12,
+                "title": "Accurate",
+                "description": "EmaFusion™ ensures you get the highest quality of results by leverage hundreds of pre-trained models."
+              },
+              {
+                "__type": "doc-gen.why-hire-ema-feature",
+                "id": 15,
+                "title": "Accurate",
+                "description": "Integrate live data from external sources that reflect latest, most relevant information."
+              },
+              {
+                "__type": "doc-gen.why-hire-ema-feature",
+                "id": 3,
+                "title": "Accurate",
+                "description": "Integrate live data from external sources that reflect latest, most relevant information."
+              }
+            ]
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "id": 59,
+          "description": "Ema can seamlessly integrate with multiple document storage solutions, retrieving data from public websites and over 200 external integrations to incorporate directly into your documents. You can upload files directly to Ema, or connect it with SharePoint, Google Drive, Dropbox, Box, and OneDrive.",
+          "title": "What external integrations does Ema support?"
+        },
+        {
+          "id": 60,
+          "description": "Ema leverages her Agentic AI mesh to learn from thousands of your past documents, trusted public sources, and enterprise data to generate accurate, contextually relevant content. Ema also accepts natural language instructions and feedback, allowing you to interact with her as you would with a human employee, improving outputs iteratively.",
+          "title": "Where does Ema read from to generate accurate, relevant content?"
+        },
+        {
+          "id": 64,
+          "description": "Ema can generate documents, presentations, and spreadsheets, enhancing them by retrieving relevant data to create charts, tables, and images, ensuring the final content is both visually appealing and informative.",
+          "title": "What are the output formats supported by Ema?"
+        },
+        {
+          "id": 62,
+          "description": "Standard LLMs often produce hallucinated or low-quality documents that struggle to align with user expectations. However, Ema solves these challenges by integrating specialized AI agents, real-time data, and an intuitive, collaborative user experience. Teams can co-author complex documents in real time, generate individual sections independently for greater agility, and provide continuous natural language feedback, ensuring accuracy, relevance, and speed.",
+          "title": "How is Ema different from ChatGPT or any other tools out there?"
+        },
+        {
+          "id": 61,
+          "description": "Yes, Ema is built with robust security and governance measures, including frequent penetration tests and data protection layers. She is one of the most compliant platforms that supports standards like SOC 2 Type II, HIPAA, ISO 42001, ISO 27001, GDPR, NIST, among others. Visit trust.ema.co for more details.",
+          "title": "Is my data secure with Ema?"
+        },
+        {
+          "id": 63,
+          "description": "Yes, you can explore Ema's features through demos or trials to understand its capabilities and benefits. Reach out to the team and we can quickly setup demos for your organization!",
+          "title": "Can I try Ema before committing?"
+        }
+      ]
+    },
+    "logoColor": "BLACK",
+    "footerData": {
+      "id": 35,
+      "addressLine2": "Mountain View, CA 94041",
+      "addressLine1": "321 Castro St\n",
+      "createdAt": "2024-09-10T09:20:43.371Z",
+      "updatedAt": "2026-03-22T10:55:47.028Z",
+      "publishedAt": "2026-03-22T10:55:48.075Z",
+      "emaNumber": null,
+      "logoText": null,
+      "documentId": "onfjm81qca9cq4amsadztm0n",
+      "productSection": null,
+      "solutions": {
+        "id": 104,
+        "title": "Solutions",
+        "redirectLink": "https://www.ema.co/personas",
+        "listValue": [
+          {
+            "id": 570,
+            "value": "Customer Support",
+            "link": "https://www.ema.co/customer-support"
+          },
+          {
+            "id": 571,
+            "value": "Data Professional",
+            "link": "https://www.ema.co//personas#Data-Professional"
+          },
+          {
+            "id": 572,
+            "value": "Employee Assistant",
+            "link": "https://www.ema.co/personas#Employee-Assistant"
+          },
+          {
+            "id": 573,
+            "value": "Pharmacist Assistant",
+            "link": "https://www.ema.co/personas#Pharmacist-Assistant"
+          },
+          {
+            "id": 574,
+            "value": "Proposal Manager",
+            "link": "https://www.ema.co/personas#Proposal-Manager"
+          },
+          {
+            "id": 575,
+            "value": "Compliance Analyst",
+            "link": "https://www.ema.co/personas#Compliance-Analyst"
+          },
+          {
+            "id": 576,
+            "value": "FAQs",
+            "link": "https://support.ema.co/"
+          },
+          {
+            "id": 577,
+            "value": "Partners",
+            "link": "https://www.ema.co/partners"
+          },
+          {
+            "id": 578,
+            "value": "Integrations",
+            "link": "https://www.ema.co/integrations"
+          },
+          {
+            "id": 579,
+            "value": "Intelligent Actions",
+            "link": "https://www.ema.co/intelligent-actions"
+          }
+        ]
+      },
+      "resources": {
+        "id": 105,
+        "title": "Resources",
+        "redirectLink": "https://www.ema.co/resources",
+        "listValue": [
+          {
+            "id": 580,
+            "value": "Blogs",
+            "link": "https://www.ema.co/blog"
+          },
+          {
+            "id": 581,
+            "value": "Customers",
+            "link": "https://www.ema.co/resources#customer"
+          },
+          {
+            "id": 582,
+            "value": "Videos",
+            "link": "https://www.ema.co/resources#videos"
+          }
+        ]
+      },
+      "company": {
+        "id": 106,
+        "title": "Company",
+        "redirectLink": "https://www.ema.co/about-us",
+        "listValue": [
+          {
+            "id": 583,
+            "value": "About",
+            "link": "https://www.ema.co/about-us"
+          },
+          {
+            "id": 584,
+            "value": "Join the Team",
+            "link": "https://www.ema.co/careers"
+          },
+          {
+            "id": 585,
+            "value": "News",
+            "link": "https://www.ema.co/news"
+          },
+          {
+            "id": 586,
+            "value": "Our Advisors",
+            "link": "https://www.ema.co/advisors"
+          }
+        ]
+      },
+      "headerContent": [
+        {
+          "id": 136,
+          "title": "Products",
+          "redirect": null,
+          "isOpen": true
+        },
+        {
+          "id": 137,
+          "title": "Solutions",
+          "redirect": "https://www.ema.co/solutions",
+          "isOpen": true
+        },
+        {
+          "id": 138,
+          "title": "Resources",
+          "redirect": "https://www.ema.co/resources",
+          "isOpen": true
+        },
+        {
+          "id": 139,
+          "title": "Company",
+          "redirect": "https://www.ema.co/about-us",
+          "isOpen": true
+        }
+      ],
+      "subNavContent": [
+        {
+          "id": 311,
+          "title": "By Department",
+          "isComingSoon": false,
+          "link": null,
+          "customClass": null,
+          "subType": "Solutions",
+          "subPoints": [
+            {
+              "id": 1000,
+              "name": "Employee Experience ",
+              "redirectLink": "https://www.ema.co/employee-experience",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 945,
+                "name": "ex.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "ex_c60a258ead",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.75,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/ex_c60a258ead.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:34:18.055Z",
+                "updatedAt": "2025-03-24T14:34:18.055Z",
+                "documentId": "t72f5p08noyaoh1u2tzqn12n",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1001,
+              "name": "Customer Experience",
+              "redirectLink": "https://www.ema.co/customer-experience",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 947,
+                "name": "cx.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "cx_aaebeb9c8a",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.54,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/cx_aaebeb9c8a.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:34:18.182Z",
+                "updatedAt": "2025-03-24T14:34:18.182Z",
+                "documentId": "cby7er0dndy2pmdi8vvyiw5s",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1002,
+              "name": "Finance Operations",
+              "redirectLink": "https://www.ema.co/finops",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 2044,
+                "name": "Group 2147227958.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 96,
+                "height": 96,
+                "formats": null,
+                "hash": "Group_2147227958_7df72e1c96",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.85,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/Group_2147227958_7df72e1c96.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2026-02-25T09:26:41.944Z",
+                "updatedAt": "2026-02-25T09:26:41.944Z",
+                "documentId": "yiw3981ayosjrarsvhb33lym",
+                "publishedAt": "2026-02-25T09:26:41.945Z"
+              }
+            },
+            {
+              "id": 1003,
+              "name": "Sales and Marketing",
+              "redirectLink": "https://www.ema.co/sales-marketing",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 948,
+                "name": "sale.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "sale_9fecb5d6dc",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.45,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/sale_9fecb5d6dc.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:34:18.223Z",
+                "updatedAt": "2025-03-24T14:34:18.223Z",
+                "documentId": "iixhpfuhre4mxagt1d9jn0cp",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 312,
+          "title": "By Industry",
+          "isComingSoon": false,
+          "link": null,
+          "customClass": null,
+          "subType": "Solutions",
+          "subPoints": [
+            {
+              "id": 1004,
+              "name": "Healthcare",
+              "redirectLink": "https://www.ema.co/health-care",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 938,
+                "name": "health.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "health_f843ecdd97",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.77,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/health_f843ecdd97.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:34:15.953Z",
+                "updatedAt": "2025-03-24T14:34:15.953Z",
+                "documentId": "re8pt9hwilawdybdnyxlqa8c",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1005,
+              "name": "Insurance",
+              "redirectLink": "https://www.ema.co/insurance",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 940,
+                "name": "insurance.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "insurance_6abd847da0",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.56,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/insurance_6abd847da0.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:34:17.244Z",
+                "updatedAt": "2025-03-24T14:34:17.244Z",
+                "documentId": "yjeosqu7tol0f0h6rj7q6nxw",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1006,
+              "name": "Professional Services ",
+              "redirectLink": "https://www.ema.co/professional-services",
+              "isComingSoon": false,
+              "subtitle": null,
+              "logo": {
+                "id": 964,
+                "name": "profe-service.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "profe_service_d91d19fb8f",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.44,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/profe_service_d91d19fb8f.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T15:01:57.624Z",
+                "updatedAt": "2025-03-25T15:01:57.624Z",
+                "documentId": "ya3wjjv1vzu970o6m6otpup2",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 313,
+          "title": "Build an AI Employee",
+          "isComingSoon": false,
+          "link": null,
+          "customClass": null,
+          "subType": "Products",
+          "subPoints": [
+            {
+              "id": 1007,
+              "name": "AI Employee Builder",
+              "redirectLink": "https://www.ema.co/ai-employee-builder",
+              "isComingSoon": null,
+              "subtitle": "Build multi-agent workflows",
+              "logo": {
+                "id": 1862,
+                "name": "as.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 150,
+                "height": 150,
+                "formats": null,
+                "hash": "as_ac4496b2c6",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 1.17,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/as_ac4496b2c6.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-10-07T14:16:16.946Z",
+                "updatedAt": "2025-10-07T14:16:16.946Z",
+                "documentId": "ljrnn3dagdbzq71gponkxyit",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1008,
+              "name": "Pre-built AI Agents",
+              "redirectLink": "https://www.ema.co/agent-library",
+              "isComingSoon": false,
+              "subtitle": "100s of pre-built AI agents",
+              "logo": {
+                "id": 952,
+                "name": "agent.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "agent_9d0df556c7",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.58,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/agent_9d0df556c7.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:44:55.584Z",
+                "updatedAt": "2025-03-24T14:44:55.584Z",
+                "documentId": "bf4d855lt25cv1vqlo7ozoef",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1009,
+              "name": "Generative Workflow Engine",
+              "redirectLink": "https://www.ema.co/gwe-generative-workflow-engine",
+              "isComingSoon": false,
+              "subtitle": "Build AI Employees 10x faster",
+              "logo": {
+                "id": 956,
+                "name": "gwe.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "gwe_05db271c61",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.75,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/gwe_05db271c61.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:55:55.552Z",
+                "updatedAt": "2025-03-24T14:56:42.488Z",
+                "documentId": "evwqfri2ymo9vg35nqh2fg6s",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1010,
+              "name": "EmaFusion™",
+              "redirectLink": "https://www.ema.co/emafusion",
+              "isComingSoon": null,
+              "subtitle": "Harness the power of 100+ LLMs",
+              "logo": {
+                "id": 934,
+                "name": "Fusion.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "Fusion_cf71a5c221",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 1.19,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/Fusion_cf71a5c221.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-21T11:05:31.713Z",
+                "updatedAt": "2025-03-21T11:05:31.713Z",
+                "documentId": "nscpze8adt5si4hlikgxykaz",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 314,
+          "title": "Hire an AI Employee",
+          "isComingSoon": false,
+          "link": null,
+          "customClass": null,
+          "subType": "Products",
+          "subPoints": [
+            {
+              "id": 1011,
+              "name": "Explore Pre-built AI Employees",
+              "redirectLink": "https://www.ema.co/ai-employees",
+              "isComingSoon": false,
+              "subtitle": "Pre-built solutions for faster impact",
+              "logo": {
+                "id": 957,
+                "name": "all-employee.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "all_employee_62174e093d",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 1.02,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/all_employee_62174e093d.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T15:12:26.948Z",
+                "updatedAt": "2025-03-24T15:12:26.948Z",
+                "documentId": "g85cmgzmog2kdvppkh9z9jjp",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1012,
+              "name": "Document Intelligence ",
+              "redirectLink": "https://www.ema.co/document-analytics",
+              "isComingSoon": false,
+              "subtitle": "Transform data into decisions  ",
+              "logo": {
+                "id": 953,
+                "name": "doc-inte.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "doc_inte_61a159334b",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.76,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/doc_inte_61a159334b.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:55:54.538Z",
+                "updatedAt": "2025-03-24T14:55:54.538Z",
+                "documentId": "c8js80yo9iqtn1xst7f1ofcq",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1013,
+              "name": "Document Generation",
+              "redirectLink": "https://www.ema.co/doc-gen\n",
+              "isComingSoon": null,
+              "subtitle": "Create quality business docs faster ",
+              "logo": {
+                "id": 954,
+                "name": "doc-gen.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "doc_gen_758480a5f8",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.89,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/doc_gen_758480a5f8.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:55:54.854Z",
+                "updatedAt": "2025-03-24T14:55:54.854Z",
+                "documentId": "y068xfno0npicf71dhcdi49i",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1014,
+              "name": "Knowledge Insights",
+              "redirectLink": "https://www.ema.co/knowledge-insights",
+              "isComingSoon": false,
+              "subtitle": "Turn data to insights in seconds",
+              "logo": {
+                "id": 949,
+                "name": "know-in.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "know_in_18166b1bae",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.52,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/know_in_18166b1bae.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:34:18.236Z",
+                "updatedAt": "2025-03-24T14:34:18.236Z",
+                "documentId": "u2xkk0fmpl0rkr1wovwlmvp1",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1015,
+              "name": "Voice AI Employee",
+              "redirectLink": "https://www.ema.co/voice-ai-employee",
+              "isComingSoon": null,
+              "subtitle": "Conversations that deliver results",
+              "logo": {
+                "id": 1986,
+                "name": "audio-lines.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 150,
+                "height": 150,
+                "formats": null,
+                "hash": "audio_lines_21709cd4fc",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.45,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/audio_lines_21709cd4fc.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2026-01-13T09:51:13.134Z",
+                "updatedAt": "2026-01-13T09:51:13.134Z",
+                "documentId": "jjec3fkydgq8qjmdoodhu2tr",
+                "publishedAt": "2026-01-13T09:51:13.134Z"
+              }
+            },
+            {
+              "id": 1016,
+              "name": "App Navigator ",
+              "redirectLink": "https://www.ema.co/app-navigator",
+              "isComingSoon": null,
+              "subtitle": "Automate work anywhere",
+              "logo": {
+                "id": 2057,
+                "name": "hh.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 150,
+                "height": 150,
+                "formats": null,
+                "hash": "hh_b262532cf3",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.81,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/hh_b262532cf3.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2026-02-26T14:00:38.301Z",
+                "updatedAt": "2026-02-26T14:00:38.301Z",
+                "documentId": "iko9pmh2cs0nwagj6bmzsw38",
+                "publishedAt": "2026-02-26T14:00:38.301Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 315,
+          "title": "Trust & Security",
+          "isComingSoon": false,
+          "link": null,
+          "customClass": null,
+          "subType": "Products",
+          "subPoints": [
+            {
+              "id": 1017,
+              "name": "Trust and Security",
+              "redirectLink": "https://www.ema.co/trust-and-security",
+              "isComingSoon": false,
+              "subtitle": "Industry leading AI compliance",
+              "logo": {
+                "id": 951,
+                "name": "Trust.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "Trust_948de66603",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.45,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/Trust_948de66603.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:34:18.270Z",
+                "updatedAt": "2025-03-24T14:57:43.759Z",
+                "documentId": "xn8axfg8qf9vty6pccno7fno",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 316,
+          "title": "Explore",
+          "isComingSoon": null,
+          "link": null,
+          "customClass": null,
+          "subType": "Resources",
+          "subPoints": [
+            {
+              "id": 1018,
+              "name": "Blogs",
+              "redirectLink": "https://www.ema.co/blog",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 958,
+                "name": "blog-icon.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "blog_icon_55ed6faafe",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.34,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/blog_icon_55ed6faafe.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T14:45:28.449Z",
+                "updatedAt": "2025-03-25T14:45:28.449Z",
+                "documentId": "zh7fvjynt5w32gn0wqula15t",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1019,
+              "name": "Newsletter",
+              "redirectLink": "https://www.linkedin.com/newsletters/7284513593637707776/",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 959,
+                "name": "news-icon.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "news_icon_34484ab6cf",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.38,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/news_icon_34484ab6cf.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T14:46:17.836Z",
+                "updatedAt": "2025-03-25T14:46:17.836Z",
+                "documentId": "q2y0vwy216m38ujhmt0ps4qr",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1020,
+              "name": "Videos",
+              "redirectLink": "https://www.ema.co/resources#videos",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 960,
+                "name": "videos.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "videos_9e89bfbe21",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.68,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/videos_9e89bfbe21.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T14:47:01.187Z",
+                "updatedAt": "2025-03-25T14:47:01.187Z",
+                "documentId": "qkoxj7kmur5khr2zo2q5g13p",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1021,
+              "name": "Customer Stories",
+              "redirectLink": "https://www.ema.co/resources#customer",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 961,
+                "name": "customer.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "customer_7e9e3aa3cb",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.52,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/customer_7e9e3aa3cb.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T14:48:12.081Z",
+                "updatedAt": "2025-03-25T14:48:12.081Z",
+                "documentId": "f894yt1aq8c98k9ab2v9rsga",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1022,
+              "name": "Whitepapers",
+              "redirectLink": "https://www.ema.co/resources#whitePaper",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 963,
+                "name": "white.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "white_8fb1184a00",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.43,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/white_8fb1184a00.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T14:49:37.156Z",
+                "updatedAt": "2025-03-25T14:49:37.156Z",
+                "documentId": "ak15f7h8kinheuxjx3zf31ae",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 317,
+          "title": "Support",
+          "isComingSoon": null,
+          "link": null,
+          "customClass": null,
+          "subType": "Resources",
+          "subPoints": [
+            {
+              "id": 1023,
+              "name": "Ema Builder Docs",
+              "redirectLink": "https://builder.ema.co/",
+              "isComingSoon": false,
+              "subtitle": null,
+              "logo": {
+                "id": 965,
+                "name": "dev-doc.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "dev_doc_8418d2cb6d",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.5,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/dev_doc_8418d2cb6d.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T15:28:34.535Z",
+                "updatedAt": "2025-03-25T15:28:34.535Z",
+                "documentId": "y7016dwa0daxpirnm8dnzb8o",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1024,
+              "name": "Get Help",
+              "redirectLink": "https://support.ema.co/",
+              "isComingSoon": false,
+              "subtitle": null,
+              "logo": {
+                "id": 966,
+                "name": "get-help.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "get_help_6e8d3e5da1",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.73,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/get_help_6e8d3e5da1.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T15:28:34.847Z",
+                "updatedAt": "2025-03-25T15:28:34.847Z",
+                "documentId": "vjog4yrc27nyvr4q4s09ed8u",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 318,
+          "title": null,
+          "isComingSoon": null,
+          "link": null,
+          "customClass": null,
+          "subType": "Company",
+          "subPoints": [
+            {
+              "id": 1025,
+              "name": "About",
+              "redirectLink": "https://www.ema.co/about-us",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 967,
+                "name": "about.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "about_c0fa61d7fd",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.47,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/about_c0fa61d7fd.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T15:36:31.369Z",
+                "updatedAt": "2025-03-25T15:36:31.369Z",
+                "documentId": "x198f904b4k2m2fvbvc2bhm7",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1026,
+              "name": "Join the Team",
+              "redirectLink": "https://www.ema.co/careers",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 970,
+                "name": "join-1.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "join_1_0afe2223a3",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.56,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/join_1_0afe2223a3.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T15:37:37.826Z",
+                "updatedAt": "2025-03-25T15:37:37.826Z",
+                "documentId": "qfn8zvea68nx29o7ceyz2fpd",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1027,
+              "name": "News",
+              "redirectLink": "https://www.ema.co/news",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 971,
+                "name": "news-c.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "news_c_e4c5a619f1",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.48,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/news_c_e4c5a619f1.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T15:38:56.658Z",
+                "updatedAt": "2025-03-25T15:38:56.658Z",
+                "documentId": "oslmpooq9xae3i7wug6a2duw",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1028,
+              "name": "Our Advisors",
+              "redirectLink": "https://www.ema.co/advisors",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 972,
+                "name": "adv.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "adv_6a850f1d7b",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 1.03,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/adv_6a850f1d7b.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T15:39:19.648Z",
+                "updatedAt": "2025-03-25T15:39:19.648Z",
+                "documentId": "ypsn6zsr0xo2vlarkz3s9h9t",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 319,
+          "title": "Ema Academy",
+          "isComingSoon": null,
+          "link": null,
+          "customClass": null,
+          "subType": "Resources",
+          "subPoints": [
+            {
+              "id": 1029,
+              "name": "Builder Academy",
+              "redirectLink": "https://www.ema.co/academy",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 2017,
+                "name": "Group 2147226983 (3).png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 96,
+                "height": 96,
+                "formats": null,
+                "hash": "Group_2147226983_3_d9c8ef88e3",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.72,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/Group_2147226983_3_d9c8ef88e3.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2026-02-11T07:38:35.584Z",
+                "updatedAt": "2026-02-11T07:38:35.584Z",
+                "documentId": "lgvr0rzdgkydocfit7z6fver",
+                "publishedAt": "2026-02-11T07:38:35.584Z"
+              }
+            }
+          ]
+        }
+      ],
+      "topBanner": {
+        "id": 34,
+        "title": "Explore the new voice of enterprise automation",
+        "link": "https://www.ema.co/voice-ai-employee",
+        "showBanner": false,
+        "btnText": "Try now",
+        "pagesToHide": [
+          {
+            "id": 65,
+            "url": "/builder",
+            "paegType": null
+          },
+          {
+            "id": 66,
+            "url": "/voice-ai-employee",
+            "paegType": null
+          }
+        ]
+      }
+    },
+    "theme": "BLACK"
+  }
+}

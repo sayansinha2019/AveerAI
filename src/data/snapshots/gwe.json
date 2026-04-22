@@ -1,0 +1,2745 @@
+{
+  "page": "/gwe-generative-workflow-engine",
+  "pageProps": {
+    "pageData": {
+      "id": 7,
+      "createdAt": "2025-01-29T11:09:10.993Z",
+      "updatedAt": "2026-03-22T09:54:45.646Z",
+      "publishedAt": "2026-03-22T09:54:46.910Z",
+      "documentId": "cqu66s79bllmhzkf1x2khd4o",
+      "heroSectionGWE": {
+        "id": 6,
+        "title": "GWE - Generative Workflow Engine™ —The AI Employee builder to 10x your productivity with Agentic AI",
+        "description": null,
+        "heroLottie": null,
+        "HeroCTA": {
+          "id": 46,
+          "ctaText": "Sign up to access",
+          "ctaLink": "/hire-gwe"
+        },
+        "heroImg": {
+          "id": 797,
+          "name": "thumbnail.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 3090,
+          "height": 1854,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/large_thumbnail_fe25cd4331.png",
+              "hash": "large_thumbnail_fe25cd4331",
+              "mime": "image/png",
+              "name": "large_thumbnail.png",
+              "path": null,
+              "size": 78.78,
+              "width": 1000,
+              "height": 600,
+              "sizeInBytes": 78782
+            },
+            "small": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_thumbnail_fe25cd4331.png",
+              "hash": "small_thumbnail_fe25cd4331",
+              "mime": "image/png",
+              "name": "small_thumbnail.png",
+              "path": null,
+              "size": 30.1,
+              "width": 500,
+              "height": 300,
+              "sizeInBytes": 30102
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/medium_thumbnail_fe25cd4331.png",
+              "hash": "medium_thumbnail_fe25cd4331",
+              "mime": "image/png",
+              "name": "medium_thumbnail.png",
+              "path": null,
+              "size": 51.75,
+              "width": 750,
+              "height": 450,
+              "sizeInBytes": 51746
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_thumbnail_fe25cd4331.png",
+              "hash": "thumbnail_thumbnail_fe25cd4331",
+              "mime": "image/png",
+              "name": "thumbnail_thumbnail.png",
+              "path": null,
+              "size": 11.73,
+              "width": 245,
+              "height": 147,
+              "sizeInBytes": 11725
+            }
+          },
+          "hash": "thumbnail_fe25cd4331",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 65.55,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_fe25cd4331.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-02-11T07:56:12.218Z",
+          "updatedAt": "2025-02-11T07:56:12.218Z",
+          "documentId": "lgaczrted0vapbqt8slti815",
+          "publishedAt": "2025-10-30T06:16:42.442Z",
+          "related": [
+            {
+              "__type": "hero-section-gwe.hero-section-gwe",
+              "id": 2,
+              "title": "GWE - Generative Workflow Engine™ —The AI Employee builder to 10x your productivity with Agentic AI",
+              "description": null,
+              "heroLottie": null
+            },
+            {
+              "__type": "hero-section-gwe.hero-section-gwe",
+              "id": 6,
+              "title": "GWE - Generative Workflow Engine™ —The AI Employee builder to 10x your productivity with Agentic AI",
+              "description": null,
+              "heroLottie": null
+            }
+          ]
+        },
+        "video": {
+          "id": 798,
+          "name": "Ema GWE Full.mp4",
+          "alternativeText": null,
+          "caption": null,
+          "width": null,
+          "height": null,
+          "formats": null,
+          "hash": "Ema_GWE_Full_f0003f747b",
+          "ext": ".mp4",
+          "mime": "video/mp4",
+          "size": 294819.24,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/Ema_GWE_Full_f0003f747b.mp4",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-02-11T08:31:02.607Z",
+          "updatedAt": "2025-02-11T08:31:02.607Z",
+          "documentId": "yahjdyewchqtbx87d877tmq6",
+          "publishedAt": "2025-10-30T06:16:42.442Z",
+          "related": [
+            {
+              "__type": "hero-section-gwe.hero-section-gwe",
+              "id": 2,
+              "title": "GWE - Generative Workflow Engine™ —The AI Employee builder to 10x your productivity with Agentic AI",
+              "description": null,
+              "heroLottie": null
+            },
+            {
+              "__type": "hero-section-gwe.hero-section-gwe",
+              "id": 6,
+              "title": "GWE - Generative Workflow Engine™ —The AI Employee builder to 10x your productivity with Agentic AI",
+              "description": null,
+              "heroLottie": null
+            }
+          ]
+        }
+      },
+      "agentSection": {
+        "id": 6,
+        "title": "Industry Leading Agent Library",
+        "description": "Get started instantly with hundreds of  specialized AI agents. Need something unique? Easily integrate or build your own agents.",
+        "image": {
+          "id": 758,
+          "name": "agent-library.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1674,
+          "height": 1527,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/large_agent_library_40cb4ac329.png",
+              "hash": "large_agent_library_40cb4ac329",
+              "mime": "image/png",
+              "name": "large_agent-library.png",
+              "path": null,
+              "size": 572.68,
+              "width": 1000,
+              "height": 912,
+              "sizeInBytes": 572684
+            },
+            "small": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_agent_library_40cb4ac329.png",
+              "hash": "small_agent_library_40cb4ac329",
+              "mime": "image/png",
+              "name": "small_agent-library.png",
+              "path": null,
+              "size": 146.36,
+              "width": 500,
+              "height": 456,
+              "sizeInBytes": 146356
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/medium_agent_library_40cb4ac329.png",
+              "hash": "medium_agent_library_40cb4ac329",
+              "mime": "image/png",
+              "name": "medium_agent-library.png",
+              "path": null,
+              "size": 314.02,
+              "width": 750,
+              "height": 684,
+              "sizeInBytes": 314018
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_agent_library_40cb4ac329.png",
+              "hash": "thumbnail_agent_library_40cb4ac329",
+              "mime": "image/png",
+              "name": "thumbnail_agent-library.png",
+              "path": null,
+              "size": 25.81,
+              "width": 171,
+              "height": 156,
+              "sizeInBytes": 25805
+            }
+          },
+          "hash": "agent_library_40cb4ac329",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 273.07,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/agent_library_40cb4ac329.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-01-29T10:56:02.084Z",
+          "updatedAt": "2025-01-29T10:56:02.084Z",
+          "documentId": "ioa4q90mg04lttxpn74kab5b",
+          "publishedAt": "2025-10-30T06:16:42.442Z",
+          "related": [
+            {
+              "__type": "agent-section.agent-section",
+              "id": 2,
+              "title": "Industry Leading Agent Library",
+              "description": "Get started instantly with hundreds of  specialized AI agents. Need something unique? Easily integrate or build your own agents."
+            },
+            {
+              "__type": "agent-section.agent-section",
+              "id": 6,
+              "title": "Industry Leading Agent Library",
+              "description": "Get started instantly with hundreds of  specialized AI agents. Need something unique? Easily integrate or build your own agents."
+            }
+          ]
+        },
+        "cta": {
+          "id": 50,
+          "ctaText": "Agent Library",
+          "ctaLink": "/agent-library"
+        }
+      },
+      "poweredByFusion": {
+        "id": 6,
+        "title": "Unmatched Accuracy, Lowest Cost",
+        "description": "GWE™ is powered by EmaFusion™, which uses 100+ diverse models including all the major foundation models, specialized models, and domain-specific models to get you the highest accuracy at the lowest costs and latency",
+        "image": {
+          "id": 809,
+          "name": "fusion.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 3185,
+          "height": 1901,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/large_fusion_393685f7b7.png",
+              "hash": "large_fusion_393685f7b7",
+              "mime": "image/png",
+              "name": "large_fusion.png",
+              "path": null,
+              "size": 94.34,
+              "width": 1000,
+              "height": 597,
+              "sizeInBytes": 94335
+            },
+            "small": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_fusion_393685f7b7.png",
+              "hash": "small_fusion_393685f7b7",
+              "mime": "image/png",
+              "name": "small_fusion.png",
+              "path": null,
+              "size": 36.8,
+              "width": 500,
+              "height": 298,
+              "sizeInBytes": 36801
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/medium_fusion_393685f7b7.png",
+              "hash": "medium_fusion_393685f7b7",
+              "mime": "image/png",
+              "name": "medium_fusion.png",
+              "path": null,
+              "size": 64.09,
+              "width": 750,
+              "height": 448,
+              "sizeInBytes": 64092
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_fusion_393685f7b7.png",
+              "hash": "thumbnail_fusion_393685f7b7",
+              "mime": "image/png",
+              "name": "thumbnail_fusion.png",
+              "path": null,
+              "size": 14.52,
+              "width": 245,
+              "height": 146,
+              "sizeInBytes": 14521
+            }
+          },
+          "hash": "fusion_393685f7b7",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 74.19,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/fusion_393685f7b7.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-02-11T11:31:22.881Z",
+          "updatedAt": "2025-02-11T11:31:22.881Z",
+          "documentId": "wiggf4vx9aruwx2uo610ts87",
+          "publishedAt": "2025-10-30T06:16:42.442Z",
+          "related": [
+            {
+              "__type": "powered-by-fusion.powered-by-fusion",
+              "id": 2,
+              "title": "Unmatched Accuracy, Lowest Cost",
+              "description": "GWE™ is powered by EmaFusion™, which uses 100+ diverse models including all the major foundation models, specialized models, and domain-specific models to get you the highest accuracy at the lowest costs and latency"
+            },
+            {
+              "__type": "powered-by-fusion.powered-by-fusion",
+              "id": 6,
+              "title": "Unmatched Accuracy, Lowest Cost",
+              "description": "GWE™ is powered by EmaFusion™, which uses 100+ diverse models including all the major foundation models, specialized models, and domain-specific models to get you the highest accuracy at the lowest costs and latency"
+            }
+          ]
+        },
+        "cta": {
+          "id": 49,
+          "ctaText": "Explore EmaFusion™",
+          "ctaLink": "/emafusion"
+        }
+      },
+      "onPremSolution": {
+        "id": 6,
+        "title": "Enterprise Ready from Day One",
+        "description": "Available for on-prem deployment. Masks sensitive information from models. Compliant with leading industry standards and security certifications.",
+        "imageMobile": {
+          "id": 808,
+          "name": "prem-mobile.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1215,
+          "height": 1250,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/large_prem_mobile_9eb7968c20.png",
+              "hash": "large_prem_mobile_9eb7968c20",
+              "mime": "image/png",
+              "name": "large_prem-mobile.png",
+              "path": null,
+              "size": 353.7,
+              "width": 972,
+              "height": 1000,
+              "sizeInBytes": 353698
+            },
+            "small": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_prem_mobile_9eb7968c20.png",
+              "hash": "small_prem_mobile_9eb7968c20",
+              "mime": "image/png",
+              "name": "small_prem-mobile.png",
+              "path": null,
+              "size": 119.14,
+              "width": 486,
+              "height": 500,
+              "sizeInBytes": 119135
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/medium_prem_mobile_9eb7968c20.png",
+              "hash": "medium_prem_mobile_9eb7968c20",
+              "mime": "image/png",
+              "name": "medium_prem-mobile.png",
+              "path": null,
+              "size": 222.92,
+              "width": 729,
+              "height": 750,
+              "sizeInBytes": 222916
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_prem_mobile_9eb7968c20.png",
+              "hash": "thumbnail_prem_mobile_9eb7968c20",
+              "mime": "image/png",
+              "name": "thumbnail_prem-mobile.png",
+              "path": null,
+              "size": 21.31,
+              "width": 152,
+              "height": 156,
+              "sizeInBytes": 21308
+            }
+          },
+          "hash": "prem_mobile_9eb7968c20",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 106.03,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/prem_mobile_9eb7968c20.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-02-11T11:29:44.702Z",
+          "updatedAt": "2025-02-11T11:29:44.702Z",
+          "documentId": "libqmcybw5hvub0t0u3he6h0",
+          "publishedAt": "2025-10-30T06:16:42.442Z",
+          "related": [
+            {
+              "__type": "on-prem-solution.on-prem-solution",
+              "id": 2,
+              "title": "Enterprise Ready from Day One",
+              "description": "Available for on-prem deployment. Masks sensitive information from models. Compliant with leading industry standards and security certifications."
+            },
+            {
+              "__type": "on-prem-solution.on-prem-solution",
+              "id": 6,
+              "title": "Enterprise Ready from Day One",
+              "description": "Available for on-prem deployment. Masks sensitive information from models. Compliant with leading industry standards and security certifications."
+            }
+          ]
+        },
+        "image": {
+          "id": 803,
+          "name": "on-prem.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1662,
+          "height": 1709,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/large_on_prem_eedacc82f6.png",
+              "hash": "large_on_prem_eedacc82f6",
+              "mime": "image/png",
+              "name": "large_on-prem.png",
+              "path": null,
+              "size": 336.4,
+              "width": 972,
+              "height": 1000,
+              "sizeInBytes": 336401
+            },
+            "small": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_on_prem_eedacc82f6.png",
+              "hash": "small_on_prem_eedacc82f6",
+              "mime": "image/png",
+              "name": "small_on-prem.png",
+              "path": null,
+              "size": 117.51,
+              "width": 486,
+              "height": 500,
+              "sizeInBytes": 117505
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/medium_on_prem_eedacc82f6.png",
+              "hash": "medium_on_prem_eedacc82f6",
+              "mime": "image/png",
+              "name": "medium_on-prem.png",
+              "path": null,
+              "size": 216.33,
+              "width": 729,
+              "height": 750,
+              "sizeInBytes": 216325
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_on_prem_eedacc82f6.png",
+              "hash": "thumbnail_on_prem_eedacc82f6",
+              "mime": "image/png",
+              "name": "thumbnail_on-prem.png",
+              "path": null,
+              "size": 21.92,
+              "width": 152,
+              "height": 156,
+              "sizeInBytes": 21915
+            }
+          },
+          "hash": "on_prem_eedacc82f6",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 165.7,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/on_prem_eedacc82f6.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-02-11T11:14:36.778Z",
+          "updatedAt": "2025-02-11T11:27:37.300Z",
+          "documentId": "buzyip13wztv2mvrjb31u7oy",
+          "publishedAt": "2025-10-30T06:16:42.442Z",
+          "related": [
+            {
+              "__type": "on-prem-solution.on-prem-solution",
+              "id": 2,
+              "title": "Enterprise Ready from Day One",
+              "description": "Available for on-prem deployment. Masks sensitive information from models. Compliant with leading industry standards and security certifications."
+            },
+            {
+              "__type": "on-prem-solution.on-prem-solution",
+              "id": 6,
+              "title": "Enterprise Ready from Day One",
+              "description": "Available for on-prem deployment. Masks sensitive information from models. Compliant with leading industry standards and security certifications."
+            }
+          ]
+        },
+        "cta": {
+          "id": 47,
+          "ctaText": "Sign up to access",
+          "ctaLink": "/hire-gwe"
+        }
+      },
+      "workflowEngine": {
+        "id": 6,
+        "titlle": "Automate Any Enterprise Workflow",
+        "description": "GWE™ powers our entire AI workforce of high performing AI Employees and can help automate more of your enterprise workflows with ease.",
+        "workflows": [
+          {
+            "id": 21,
+            "title": "Your Custom Employee",
+            "description": "Conversationally build a custom AI Employee to automate any workflow",
+            "ctaText": null,
+            "ctaLink": null,
+            "icon": {
+              "id": 804,
+              "name": "w-4.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 189,
+              "height": 153,
+              "formats": null,
+              "hash": "w_4_b95ca75e34",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 1.96,
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/w_4_b95ca75e34.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-02-11T11:21:07.052Z",
+              "updatedAt": "2025-02-11T11:21:07.052Z",
+              "documentId": "vgly6undvzy5a2r7b6gyyspm",
+              "publishedAt": "2025-10-30T06:16:42.442Z",
+              "related": [
+                {
+                  "__type": "workflows.workflows",
+                  "id": 24,
+                  "title": "Customer Support",
+                  "description": "Supercharge your Customer Experience with Agentic AI",
+                  "ctaText": "Learn More",
+                  "ctaLink": "/customer-support"
+                },
+                {
+                  "__type": "workflows.workflows",
+                  "id": 8,
+                  "title": "Customer Support",
+                  "description": "Supercharge your Customer Experience with Agentic AI",
+                  "ctaText": "Learn More",
+                  "ctaLink": "/customer-support"
+                },
+                {
+                  "__type": "workflows.workflows",
+                  "id": 21,
+                  "title": "Your Custom Employee",
+                  "description": "Conversationally build a custom AI Employee to automate any workflow",
+                  "ctaText": null,
+                  "ctaLink": null
+                },
+                {
+                  "__type": "workflows.workflows",
+                  "id": 5,
+                  "title": "Your Custom Employee",
+                  "description": "Conversationally build a custom AI Employee to automate any workflow",
+                  "ctaText": null,
+                  "ctaLink": null
+                }
+              ]
+            }
+          },
+          {
+            "id": 22,
+            "title": "AI SDR",
+            "description": "Track and engage with high-intent buyers with personalized messaging",
+            "ctaText": "Learn More",
+            "ctaLink": "/sales-marketing",
+            "icon": {
+              "id": 807,
+              "name": "w-2.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 178,
+              "height": 165,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_w_2_94810d7038.png",
+                  "hash": "thumbnail_w_2_94810d7038",
+                  "mime": "image/png",
+                  "name": "thumbnail_w-2.png",
+                  "path": null,
+                  "size": 10.18,
+                  "width": 168,
+                  "height": 156,
+                  "sizeInBytes": 10175
+                }
+              },
+              "hash": "w_2_94810d7038",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 1.77,
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/w_2_94810d7038.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-02-11T11:21:07.278Z",
+              "updatedAt": "2025-02-11T11:21:07.278Z",
+              "documentId": "k8nhdbbbx5kk53mx9bwlwjqg",
+              "publishedAt": "2025-10-30T06:16:42.442Z",
+              "related": [
+                {
+                  "__type": "workflows.workflows",
+                  "id": 6,
+                  "title": "AI SDR",
+                  "description": "Track and engage with high-intent buyers with personalized messaging",
+                  "ctaText": "Learn More",
+                  "ctaLink": "/sales-marketing"
+                },
+                {
+                  "__type": "workflows.workflows",
+                  "id": 22,
+                  "title": "AI SDR",
+                  "description": "Track and engage with high-intent buyers with personalized messaging",
+                  "ctaText": "Learn More",
+                  "ctaLink": "/sales-marketing"
+                }
+              ]
+            }
+          },
+          {
+            "id": 23,
+            "title": "Document Generation",
+            "description": "Comprehensive, visually compelling  documents across roles",
+            "ctaText": "Learn More",
+            "ctaLink": "/doc-gen",
+            "icon": {
+              "id": 806,
+              "name": "w-3.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 183,
+              "height": 171,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_w_3_9d696e8a51.png",
+                  "hash": "thumbnail_w_3_9d696e8a51",
+                  "mime": "image/png",
+                  "name": "thumbnail_w-3.png",
+                  "path": null,
+                  "size": 5.68,
+                  "width": 167,
+                  "height": 156,
+                  "sizeInBytes": 5680
+                }
+              },
+              "hash": "w_3_9d696e8a51",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 1.17,
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/w_3_9d696e8a51.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-02-11T11:21:07.254Z",
+              "updatedAt": "2025-02-11T11:21:07.254Z",
+              "documentId": "whp1xb8pznsdbs2w82189dqq",
+              "publishedAt": "2025-10-30T06:16:42.442Z",
+              "related": [
+                {
+                  "__type": "workflows.workflows",
+                  "id": 23,
+                  "title": "Document Generation",
+                  "description": "Comprehensive, visually compelling  documents across roles",
+                  "ctaText": "Learn More",
+                  "ctaLink": "/doc-gen"
+                },
+                {
+                  "__type": "workflows.workflows",
+                  "id": 7,
+                  "title": "Document Generation",
+                  "description": "Comprehensive, visually compelling  documents across roles",
+                  "ctaText": "Learn More",
+                  "ctaLink": "/doc-gen"
+                }
+              ]
+            }
+          },
+          {
+            "id": 24,
+            "title": "Customer Support",
+            "description": "Supercharge your Customer Experience with Agentic AI",
+            "ctaText": "Learn More",
+            "ctaLink": "/customer-support",
+            "icon": {
+              "id": 804,
+              "name": "w-4.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 189,
+              "height": 153,
+              "formats": null,
+              "hash": "w_4_b95ca75e34",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 1.96,
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/w_4_b95ca75e34.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-02-11T11:21:07.052Z",
+              "updatedAt": "2025-02-11T11:21:07.052Z",
+              "documentId": "vgly6undvzy5a2r7b6gyyspm",
+              "publishedAt": "2025-10-30T06:16:42.442Z",
+              "related": [
+                {
+                  "__type": "workflows.workflows",
+                  "id": 24,
+                  "title": "Customer Support",
+                  "description": "Supercharge your Customer Experience with Agentic AI",
+                  "ctaText": "Learn More",
+                  "ctaLink": "/customer-support"
+                },
+                {
+                  "__type": "workflows.workflows",
+                  "id": 8,
+                  "title": "Customer Support",
+                  "description": "Supercharge your Customer Experience with Agentic AI",
+                  "ctaText": "Learn More",
+                  "ctaLink": "/customer-support"
+                },
+                {
+                  "__type": "workflows.workflows",
+                  "id": 21,
+                  "title": "Your Custom Employee",
+                  "description": "Conversationally build a custom AI Employee to automate any workflow",
+                  "ctaText": null,
+                  "ctaLink": null
+                },
+                {
+                  "__type": "workflows.workflows",
+                  "id": 5,
+                  "title": "Your Custom Employee",
+                  "description": "Conversationally build a custom AI Employee to automate any workflow",
+                  "ctaText": null,
+                  "ctaLink": null
+                }
+              ]
+            }
+          }
+        ],
+        "bottomImg": {
+          "id": 763,
+          "name": "bottom.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 865,
+          "height": 808,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_bottom_1b25c020f8.png",
+              "hash": "small_bottom_1b25c020f8",
+              "mime": "image/png",
+              "name": "small_bottom.png",
+              "path": null,
+              "size": 129.35,
+              "width": 500,
+              "height": 467,
+              "sizeInBytes": 129352
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/medium_bottom_1b25c020f8.png",
+              "hash": "medium_bottom_1b25c020f8",
+              "mime": "image/png",
+              "name": "medium_bottom.png",
+              "path": null,
+              "size": 300.19,
+              "width": 750,
+              "height": 701,
+              "sizeInBytes": 300192
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_bottom_1b25c020f8.png",
+              "hash": "thumbnail_bottom_1b25c020f8",
+              "mime": "image/png",
+              "name": "thumbnail_bottom.png",
+              "path": null,
+              "size": 22.37,
+              "width": 167,
+              "height": 156,
+              "sizeInBytes": 22366
+            }
+          },
+          "hash": "bottom_1b25c020f8",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 52.96,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/bottom_1b25c020f8.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-01-29T11:07:13.237Z",
+          "updatedAt": "2025-01-29T11:07:13.237Z",
+          "documentId": "kbmr3ive00mseoixzkgzwj5n",
+          "publishedAt": "2025-10-30T06:16:42.442Z",
+          "related": [
+            {
+              "__type": "workflow-engine.workflow-engine",
+              "id": 2,
+              "titlle": "Automate Any Enterprise Workflow",
+              "description": "GWE™ powers our entire AI workforce of high performing AI Employees and can help automate more of your enterprise workflows with ease."
+            },
+            {
+              "__type": "workflow-engine.workflow-engine",
+              "id": 6,
+              "titlle": "Automate Any Enterprise Workflow",
+              "description": "GWE™ powers our entire AI workforce of high performing AI Employees and can help automate more of your enterprise workflows with ease."
+            }
+          ]
+        },
+        "sideImage": {
+          "id": 779,
+          "name": "custom-workflow-desktop-new.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1836,
+          "height": 1920,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/large_custom_workflow_desktop_new_788f17c6f6.png",
+              "hash": "large_custom_workflow_desktop_new_788f17c6f6",
+              "mime": "image/png",
+              "name": "large_custom-workflow-desktop-new.png",
+              "path": null,
+              "size": 151.36,
+              "width": 956,
+              "height": 1000,
+              "sizeInBytes": 151356
+            },
+            "small": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_custom_workflow_desktop_new_788f17c6f6.png",
+              "hash": "small_custom_workflow_desktop_new_788f17c6f6",
+              "mime": "image/png",
+              "name": "small_custom-workflow-desktop-new.png",
+              "path": null,
+              "size": 59.63,
+              "width": 478,
+              "height": 500,
+              "sizeInBytes": 59627
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/medium_custom_workflow_desktop_new_788f17c6f6.png",
+              "hash": "medium_custom_workflow_desktop_new_788f17c6f6",
+              "mime": "image/png",
+              "name": "medium_custom-workflow-desktop-new.png",
+              "path": null,
+              "size": 105.62,
+              "width": 717,
+              "height": 750,
+              "sizeInBytes": 105623
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_custom_workflow_desktop_new_788f17c6f6.png",
+              "hash": "thumbnail_custom_workflow_desktop_new_788f17c6f6",
+              "mime": "image/png",
+              "name": "thumbnail_custom-workflow-desktop-new.png",
+              "path": null,
+              "size": 11.6,
+              "width": 149,
+              "height": 156,
+              "sizeInBytes": 11598
+            }
+          },
+          "hash": "custom_workflow_desktop_new_788f17c6f6",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 56.45,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/custom_workflow_desktop_new_788f17c6f6.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-02-03T11:34:11.842Z",
+          "updatedAt": "2025-02-03T11:34:11.842Z",
+          "documentId": "uprrah0mml1o9exkijkej16b",
+          "publishedAt": "2025-10-30T06:16:42.442Z",
+          "related": [
+            {
+              "__type": "workflow-engine.workflow-engine",
+              "id": 2,
+              "titlle": "Automate Any Enterprise Workflow",
+              "description": "GWE™ powers our entire AI workforce of high performing AI Employees and can help automate more of your enterprise workflows with ease."
+            },
+            {
+              "__type": "workflow-engine.workflow-engine",
+              "id": 6,
+              "titlle": "Automate Any Enterprise Workflow",
+              "description": "GWE™ powers our entire AI workforce of high performing AI Employees and can help automate more of your enterprise workflows with ease."
+            }
+          ]
+        },
+        "sideImageMobile": {
+          "id": 780,
+          "name": "custom-workflow-mobile.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1104,
+          "height": 2034,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/large_custom_workflow_mobile_e037eb95bb.png",
+              "hash": "large_custom_workflow_mobile_e037eb95bb",
+              "mime": "image/png",
+              "name": "large_custom-workflow-mobile.png",
+              "path": null,
+              "size": 112.36,
+              "width": 543,
+              "height": 1000,
+              "sizeInBytes": 112359
+            },
+            "small": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_custom_workflow_mobile_e037eb95bb.png",
+              "hash": "small_custom_workflow_mobile_e037eb95bb",
+              "mime": "image/png",
+              "name": "small_custom-workflow-mobile.png",
+              "path": null,
+              "size": 45.63,
+              "width": 271,
+              "height": 500,
+              "sizeInBytes": 45627
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/medium_custom_workflow_mobile_e037eb95bb.png",
+              "hash": "medium_custom_workflow_mobile_e037eb95bb",
+              "mime": "image/png",
+              "name": "medium_custom-workflow-mobile.png",
+              "path": null,
+              "size": 77.58,
+              "width": 407,
+              "height": 750,
+              "sizeInBytes": 77578
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_custom_workflow_mobile_e037eb95bb.png",
+              "hash": "thumbnail_custom_workflow_mobile_e037eb95bb",
+              "mime": "image/png",
+              "name": "thumbnail_custom-workflow-mobile.png",
+              "path": null,
+              "size": 8.44,
+              "width": 85,
+              "height": 156,
+              "sizeInBytes": 8443
+            }
+          },
+          "hash": "custom_workflow_mobile_e037eb95bb",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 48.13,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/custom_workflow_mobile_e037eb95bb.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-02-03T11:34:37.100Z",
+          "updatedAt": "2025-02-03T11:34:37.100Z",
+          "documentId": "k7znqiqpdmr807x2olu24kmq",
+          "publishedAt": "2025-10-30T06:16:42.442Z",
+          "related": [
+            {
+              "__type": "workflow-engine.workflow-engine",
+              "id": 2,
+              "titlle": "Automate Any Enterprise Workflow",
+              "description": "GWE™ powers our entire AI workforce of high performing AI Employees and can help automate more of your enterprise workflows with ease."
+            },
+            {
+              "__type": "workflow-engine.workflow-engine",
+              "id": 6,
+              "titlle": "Automate Any Enterprise Workflow",
+              "description": "GWE™ powers our entire AI workforce of high performing AI Employees and can help automate more of your enterprise workflows with ease."
+            }
+          ]
+        }
+      },
+      "uniteActionGWE": {
+        "id": 6,
+        "title": "Idea to Impact in minutes",
+        "description": "The fastest way to build high performing AI Employees",
+        "image1": {
+          "id": 800,
+          "name": "image-1.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1872,
+          "height": 1464,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/large_image_1_d34b053ca0.png",
+              "hash": "large_image_1_d34b053ca0",
+              "mime": "image/png",
+              "name": "large_image-1.png",
+              "path": null,
+              "size": 208.03,
+              "width": 1000,
+              "height": 782,
+              "sizeInBytes": 208033
+            },
+            "small": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_image_1_d34b053ca0.png",
+              "hash": "small_image_1_d34b053ca0",
+              "mime": "image/png",
+              "name": "small_image-1.png",
+              "path": null,
+              "size": 81.68,
+              "width": 500,
+              "height": 391,
+              "sizeInBytes": 81678
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/medium_image_1_d34b053ca0.png",
+              "hash": "medium_image_1_d34b053ca0",
+              "mime": "image/png",
+              "name": "medium_image-1.png",
+              "path": null,
+              "size": 140.27,
+              "width": 750,
+              "height": 587,
+              "sizeInBytes": 140267
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_image_1_d34b053ca0.png",
+              "hash": "thumbnail_image_1_d34b053ca0",
+              "mime": "image/png",
+              "name": "thumbnail_image-1.png",
+              "path": null,
+              "size": 23.8,
+              "width": 199,
+              "height": 156,
+              "sizeInBytes": 23802
+            }
+          },
+          "hash": "image_1_d34b053ca0",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 76.96,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/image_1_d34b053ca0.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-02-11T11:14:33.601Z",
+          "updatedAt": "2025-02-11T11:14:33.601Z",
+          "documentId": "l0poy7qy5zi0arkphddyqvf9",
+          "publishedAt": "2025-10-30T06:16:42.442Z",
+          "related": [
+            {
+              "__type": "unite-action-gwe.unite-action-gwe",
+              "id": 2,
+              "title": "Idea to Impact in minutes",
+              "description": "The fastest way to build high performing AI Employees"
+            },
+            {
+              "__type": "unite-action-gwe.unite-action-gwe",
+              "id": 6,
+              "title": "Idea to Impact in minutes",
+              "description": "The fastest way to build high performing AI Employees"
+            }
+          ]
+        },
+        "image2": {
+          "id": 802,
+          "name": "image-2.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 3186,
+          "height": 1332,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/large_image_2_ee4fe5418e.png",
+              "hash": "large_image_2_ee4fe5418e",
+              "mime": "image/png",
+              "name": "large_image-2.png",
+              "path": null,
+              "size": 171.09,
+              "width": 1000,
+              "height": 418,
+              "sizeInBytes": 171092
+            },
+            "small": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_image_2_ee4fe5418e.png",
+              "hash": "small_image_2_ee4fe5418e",
+              "mime": "image/png",
+              "name": "small_image-2.png",
+              "path": null,
+              "size": 63.61,
+              "width": 500,
+              "height": 209,
+              "sizeInBytes": 63608
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/medium_image_2_ee4fe5418e.png",
+              "hash": "medium_image_2_ee4fe5418e",
+              "mime": "image/png",
+              "name": "medium_image-2.png",
+              "path": null,
+              "size": 114.59,
+              "width": 750,
+              "height": 314,
+              "sizeInBytes": 114593
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_image_2_ee4fe5418e.png",
+              "hash": "thumbnail_image_2_ee4fe5418e",
+              "mime": "image/png",
+              "name": "thumbnail_image-2.png",
+              "path": null,
+              "size": 22.44,
+              "width": 245,
+              "height": 102,
+              "sizeInBytes": 22435
+            }
+          },
+          "hash": "image_2_ee4fe5418e",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 161.29,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/image_2_ee4fe5418e.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-02-11T11:14:36.006Z",
+          "updatedAt": "2025-02-11T11:14:36.006Z",
+          "documentId": "qwfdlj97hqzqy6s9oqwkhnsc",
+          "publishedAt": "2025-10-30T06:16:42.442Z",
+          "related": [
+            {
+              "__type": "unite-action-gwe.unite-action-gwe",
+              "id": 2,
+              "title": "Idea to Impact in minutes",
+              "description": "The fastest way to build high performing AI Employees"
+            },
+            {
+              "__type": "unite-action-gwe.unite-action-gwe",
+              "id": 6,
+              "title": "Idea to Impact in minutes",
+              "description": "The fastest way to build high performing AI Employees"
+            }
+          ]
+        },
+        "image3": {
+          "id": 801,
+          "name": "image-3.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1563,
+          "height": 1440,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/large_image_3_f807238e2f.png",
+              "hash": "large_image_3_f807238e2f",
+              "mime": "image/png",
+              "name": "large_image-3.png",
+              "path": null,
+              "size": 217.63,
+              "width": 1000,
+              "height": 921,
+              "sizeInBytes": 217630
+            },
+            "small": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_image_3_f807238e2f.png",
+              "hash": "small_image_3_f807238e2f",
+              "mime": "image/png",
+              "name": "small_image-3.png",
+              "path": null,
+              "size": 80.74,
+              "width": 500,
+              "height": 461,
+              "sizeInBytes": 80740
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/medium_image_3_f807238e2f.png",
+              "hash": "medium_image_3_f807238e2f",
+              "mime": "image/png",
+              "name": "medium_image-3.png",
+              "path": null,
+              "size": 143.37,
+              "width": 750,
+              "height": 691,
+              "sizeInBytes": 143371
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_image_3_f807238e2f.png",
+              "hash": "thumbnail_image_3_f807238e2f",
+              "mime": "image/png",
+              "name": "thumbnail_image-3.png",
+              "path": null,
+              "size": 18.2,
+              "width": 169,
+              "height": 156,
+              "sizeInBytes": 18204
+            }
+          },
+          "hash": "image_3_f807238e2f",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 58.25,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/image_3_f807238e2f.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-02-11T11:14:34.997Z",
+          "updatedAt": "2025-02-11T11:14:34.997Z",
+          "documentId": "sa1wn0pfihur5yt4mmji2u7b",
+          "publishedAt": "2025-10-30T06:16:42.442Z",
+          "related": [
+            {
+              "__type": "unite-action-gwe.unite-action-gwe",
+              "id": 2,
+              "title": "Idea to Impact in minutes",
+              "description": "The fastest way to build high performing AI Employees"
+            },
+            {
+              "__type": "unite-action-gwe.unite-action-gwe",
+              "id": 6,
+              "title": "Idea to Impact in minutes",
+              "description": "The fastest way to build high performing AI Employees"
+            }
+          ]
+        },
+        "image4": {
+          "id": 799,
+          "name": "image-4.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1569,
+          "height": 1440,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/large_image_4_018549df37.png",
+              "hash": "large_image_4_018549df37",
+              "mime": "image/png",
+              "name": "large_image-4.png",
+              "path": null,
+              "size": 159.99,
+              "width": 1000,
+              "height": 918,
+              "sizeInBytes": 159989
+            },
+            "small": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_image_4_018549df37.png",
+              "hash": "small_image_4_018549df37",
+              "mime": "image/png",
+              "name": "small_image-4.png",
+              "path": null,
+              "size": 60.96,
+              "width": 500,
+              "height": 459,
+              "sizeInBytes": 60963
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/medium_image_4_018549df37.png",
+              "hash": "medium_image_4_018549df37",
+              "mime": "image/png",
+              "name": "medium_image-4.png",
+              "path": null,
+              "size": 105.18,
+              "width": 750,
+              "height": 688,
+              "sizeInBytes": 105176
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_image_4_018549df37.png",
+              "hash": "thumbnail_image_4_018549df37",
+              "mime": "image/png",
+              "name": "thumbnail_image-4.png",
+              "path": null,
+              "size": 14.97,
+              "width": 170,
+              "height": 156,
+              "sizeInBytes": 14972
+            }
+          },
+          "hash": "image_4_018549df37",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 56.04,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/image_4_018549df37.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-02-11T11:14:32.611Z",
+          "updatedAt": "2025-02-11T11:14:32.611Z",
+          "documentId": "xfx5mtgafjqqg29d69cbqi64",
+          "publishedAt": "2025-10-30T06:16:42.442Z",
+          "related": [
+            {
+              "__type": "unite-action-gwe.unite-action-gwe",
+              "id": 2,
+              "title": "Idea to Impact in minutes",
+              "description": "The fastest way to build high performing AI Employees"
+            },
+            {
+              "__type": "unite-action-gwe.unite-action-gwe",
+              "id": 6,
+              "title": "Idea to Impact in minutes",
+              "description": "The fastest way to build high performing AI Employees"
+            }
+          ]
+        },
+        "image2Mobile": {
+          "id": 810,
+          "name": "mobile-3.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1108,
+          "height": 1435,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/large_mobile_3_9383bd810c.png",
+              "hash": "large_mobile_3_9383bd810c",
+              "mime": "image/png",
+              "name": "large_mobile-3.png",
+              "path": null,
+              "size": 279.3,
+              "width": 772,
+              "height": 1000,
+              "sizeInBytes": 279302
+            },
+            "small": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_mobile_3_9383bd810c.png",
+              "hash": "small_mobile_3_9383bd810c",
+              "mime": "image/png",
+              "name": "small_mobile-3.png",
+              "path": null,
+              "size": 100.58,
+              "width": 386,
+              "height": 500,
+              "sizeInBytes": 100579
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/medium_mobile_3_9383bd810c.png",
+              "hash": "medium_mobile_3_9383bd810c",
+              "mime": "image/png",
+              "name": "medium_mobile-3.png",
+              "path": null,
+              "size": 182.55,
+              "width": 579,
+              "height": 750,
+              "sizeInBytes": 182554
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_mobile_3_9383bd810c.png",
+              "hash": "thumbnail_mobile_3_9383bd810c",
+              "mime": "image/png",
+              "name": "thumbnail_mobile-3.png",
+              "path": null,
+              "size": 19.14,
+              "width": 120,
+              "height": 156,
+              "sizeInBytes": 19141
+            }
+          },
+          "hash": "mobile_3_9383bd810c",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 71.62,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/mobile_3_9383bd810c.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-02-11T11:32:09.600Z",
+          "updatedAt": "2025-02-11T11:32:09.600Z",
+          "documentId": "l2twmiwlcmakp0zh13ylmcch",
+          "publishedAt": "2025-10-30T06:16:42.442Z",
+          "related": [
+            {
+              "__type": "unite-action-gwe.unite-action-gwe",
+              "id": 2,
+              "title": "Idea to Impact in minutes",
+              "description": "The fastest way to build high performing AI Employees"
+            },
+            {
+              "__type": "unite-action-gwe.unite-action-gwe",
+              "id": 6,
+              "title": "Idea to Impact in minutes",
+              "description": "The fastest way to build high performing AI Employees"
+            }
+          ]
+        }
+      },
+      "integrationGWE": {
+        "id": 12,
+        "title": "Unify your application stack with Agentic AI",
+        "description": "GWE™ supports hundreds of apps and thousands of actions out of the box, enabling your AI Employees to work where your teams already are.",
+        "titleTop": "Integrations",
+        "cta": {
+          "id": 48,
+          "ctaText": "EXPLORE INTEGRATIONS",
+          "ctaLink": "/"
+        },
+        "image": {
+          "id": 766,
+          "name": "integration.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 3288,
+          "height": 1668,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/large_integration_db72746449.png",
+              "hash": "large_integration_db72746449",
+              "mime": "image/png",
+              "name": "large_integration.png",
+              "path": null,
+              "size": 68.92,
+              "width": 1000,
+              "height": 507,
+              "sizeInBytes": 68918
+            },
+            "small": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_integration_db72746449.png",
+              "hash": "small_integration_db72746449",
+              "mime": "image/png",
+              "name": "small_integration.png",
+              "path": null,
+              "size": 27.98,
+              "width": 500,
+              "height": 254,
+              "sizeInBytes": 27982
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/medium_integration_db72746449.png",
+              "hash": "medium_integration_db72746449",
+              "mime": "image/png",
+              "name": "medium_integration.png",
+              "path": null,
+              "size": 47.57,
+              "width": 750,
+              "height": 380,
+              "sizeInBytes": 47573
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_integration_db72746449.png",
+              "hash": "thumbnail_integration_db72746449",
+              "mime": "image/png",
+              "name": "thumbnail_integration.png",
+              "path": null,
+              "size": 11.13,
+              "width": 245,
+              "height": 124,
+              "sizeInBytes": 11132
+            }
+          },
+          "hash": "integration_db72746449",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 54.63,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/integration_db72746449.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-01-29T17:39:12.329Z",
+          "updatedAt": "2025-02-03T11:31:04.512Z",
+          "documentId": "yk4v39cp3vtwk4qevnzphfft",
+          "publishedAt": "2025-10-30T06:16:42.442Z",
+          "related": [
+            {
+              "__type": "integration-gwe.integration-gwe",
+              "id": 6,
+              "title": "Unify your application stack with Agentic AI",
+              "description": "GWE™ supports hundreds of apps and thousands of actions out of the box, enabling your AI Employees to work where your teams already are.",
+              "titleTop": "Integrations"
+            },
+            {
+              "__type": "integration-gwe.integration-gwe",
+              "id": 12,
+              "title": "Unify your application stack with Agentic AI",
+              "description": "GWE™ supports hundreds of apps and thousands of actions out of the box, enabling your AI Employees to work where your teams already are.",
+              "titleTop": "Integrations"
+            }
+          ]
+        },
+        "mobileImg": {
+          "id": 776,
+          "name": "integration-mobile.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1290,
+          "height": 1662,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/large_integration_mobile_8c218307ea.png",
+              "hash": "large_integration_mobile_8c218307ea",
+              "mime": "image/png",
+              "name": "large_integration-mobile.png",
+              "path": null,
+              "size": 96.41,
+              "width": 776,
+              "height": 1000,
+              "sizeInBytes": 96414
+            },
+            "small": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_integration_mobile_8c218307ea.png",
+              "hash": "small_integration_mobile_8c218307ea",
+              "mime": "image/png",
+              "name": "small_integration-mobile.png",
+              "path": null,
+              "size": 40.33,
+              "width": 388,
+              "height": 500,
+              "sizeInBytes": 40334
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/medium_integration_mobile_8c218307ea.png",
+              "hash": "medium_integration_mobile_8c218307ea",
+              "mime": "image/png",
+              "name": "medium_integration-mobile.png",
+              "path": null,
+              "size": 66.63,
+              "width": 582,
+              "height": 750,
+              "sizeInBytes": 66632
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_integration_mobile_8c218307ea.png",
+              "hash": "thumbnail_integration_mobile_8c218307ea",
+              "mime": "image/png",
+              "name": "thumbnail_integration-mobile.png",
+              "path": null,
+              "size": 10.29,
+              "width": 121,
+              "height": 156,
+              "sizeInBytes": 10291
+            }
+          },
+          "hash": "integration_mobile_8c218307ea",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 30.42,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/integration_mobile_8c218307ea.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-02-03T11:30:19.864Z",
+          "updatedAt": "2025-02-03T11:30:19.864Z",
+          "documentId": "a6y9u8q2pnggrmzzjfkrcwh8",
+          "publishedAt": "2025-10-30T06:16:42.442Z",
+          "related": [
+            {
+              "__type": "integration-gwe.integration-gwe",
+              "id": 6,
+              "title": "Unify your application stack with Agentic AI",
+              "description": "GWE™ supports hundreds of apps and thousands of actions out of the box, enabling your AI Employees to work where your teams already are.",
+              "titleTop": "Integrations"
+            },
+            {
+              "__type": "integration-gwe.integration-gwe",
+              "id": 12,
+              "title": "Unify your application stack with Agentic AI",
+              "description": "GWE™ supports hundreds of apps and thousands of actions out of the box, enabling your AI Employees to work where your teams already are.",
+              "titleTop": "Integrations"
+            }
+          ]
+        }
+      },
+      "faq": [
+        {
+          "id": 678,
+          "description": "GWE - Generative Workflow Engine™ is Ema's cutting-edge Agentic AI platform that can be used to build AI Employees to automate any business process with ease. It serves as the foundation for all our pre-built AI employees—such as Agent Assist and AI SDR—while also enabling the creation of fully customized AI employees tailored to specific business needs.\n\nAt its core, GWE™ specializes in processing natural language queries, automatically determining query associated tasks and tools, and leveraging Generative Workflow Builder for task completion. GWE™ allows users to conversationally share their requirements and automatically creates sophisticated AI Employees by picking and orchestrating workflows from its library of 100+ specialized agents. Its intuitive no-code interface makes it accessible to both technical and non-technical users, allowing businesses to seamlessly build, deploy, and scale AI-driven workflows.",
+          "title": "What is GWE - Generative Workflow Engine™?"
+        },
+        {
+          "id": 679,
+          "description": "The GWE - Generative Workflow Engine™ distinguishes itself from traditional workflow automation tools like Robotic Process Automation (RPA) in several key ways:\n\n(1) Intelligent Orchestration: Unlike RPA, which automates predefined tasks, GWE™ functions as a sophisticated planner and executor. It coordinates a network of specialized AI agents, each with unique expertise, to collaboratively tackle novel, complex tasks. Since the built in reasoning removes the need for specifying every single path the automation can follow, AI Employees built with GWE are much easier to setup and maintain than RPAs. \n\n(2) Learning and Optimization: GWE™ is designed with advanced capabilities that allow it to learn, adapt, and optimize its performance over time. It maintains a sophisticated long-term memory encompassing its context, interactions, and experiences, enabling continuous improvement and refinement of workflows.\n\n(3) Human-Like Collaboration: GWE™ architecture mirrors human organizational processes, from creating AI Employees for specific roles, to onboarding them with training material and training them with feedback in plain words. This approach allows AI Employees to seamlessly co-work with humans and embed themselves into existing workflows, unlike other automation tools that usually require significant user behavior changes to be impactful. \n\nWhile traditional RPA focuses on automating specific, repetitive tasks, GWE™ offers a more advanced, intelligent, and adaptable approach to workflow automation, capable of handling complex processes and evolving alongside organizational needs.",
+          "title": "How does GWE - Generative Workflow Engine™ differ from traditional workflow automation tools like RPAs?"
+        },
+        {
+          "id": 680,
+          "description": "An AI Employee is a multi agent system, designed to automate business processes in specific roles across your company. AI Employees can easily onboard using the material your team already has, work out of 100s of apps like their human teammates, and easily collaborate with humans to seek help and feedback to constantly improve their performance. \n\nEma offers 30+ pre-built AI Employees, such as Agent Assist, Proposal Manager, Compliance Analyst, and AI SDR, that streamline operations in areas like customer support, sales, HR, finance and beyond.\n\nBeyond these ready-made solutions, with GWE you can also conversationally create custom AI Employees using our extensive agent catalog, enabling automation tailored to your unique business needs. Whether improving efficiency, reducing manual work, or enhancing decision-making, AI Employees seamlessly integrate across your organization.",
+          "title": "What is an AI Employee ?"
+        },
+        {
+          "id": 681,
+          "description": "GWE™ supports 100+ specialized agents which can be used to build any of your workflows. These agents can work with other agents and can take your natural language instructions to execute a specific set of tasks that they specialize in. \nYou can also bring any of your custom agents built anywhere and add them to your workflows as well. \n\nEma provides pre-trained and high performing agents across categories such as research, planning, tool use, generation etc. Ema also has agents that specialize in domains and functions such as healthcare, finance, marketing etc.\n\nCheck out our Agent Library for all the agents.",
+          "title": "What agents does GWE - Generative Workflow Engine™ support ?"
+        },
+        {
+          "id": 682,
+          "description": "Ema supports different deployment options: \n(1) Ema SaaS Cloud (multi-tenant, Ema hosted)\n(2) Ema Enterprise Cloud (single tenant, Ema hosted)\n(3) Ema On Cloud Prem (customer hosted) \n",
+          "title": "What are deployment options which GWE - Generative Workflow Engine™ supports ?"
+        },
+        {
+          "id": 683,
+          "description": "EmaFusion™ is our proprietary model which combines outputs from 100+ diverse models, including top foundation models, specialized models, and domain-specific models, to deliver the best accuracy at the lowest cost and latency. We continuously integrate the latest model updates and newly released models, such as DeepSeek, ensuring you always have access to the most cutting-edge AI technology and aren't locked into any one stack.\n\nWithin GWE™, you have complete flexibility—you can leverage EmaFusion™ for optimized performance, choose from a selection of publicly available models, or even integrate your own custom model to power the agents in your AI Employee.",
+          "title": "What is EmaFusion™ and what AI models can I use in GWE™?"
+        }
+      ],
+      "hireEma": {
+        "id": 116,
+        "title": null,
+        "description": "Experience the best of Agentic AI with GWE - Generative Workflow Engine™",
+        "buttonLink": "/",
+        "buttonText": "Hire Ema Today",
+        "imageText": "Transform the way you work"
+      }
+    },
+    "footerData": {
+      "id": 35,
+      "addressLine2": "Mountain View, CA 94041",
+      "addressLine1": "321 Castro St\n",
+      "createdAt": "2024-09-10T09:20:43.371Z",
+      "updatedAt": "2026-03-22T10:55:47.028Z",
+      "publishedAt": "2026-03-22T10:55:48.075Z",
+      "emaNumber": null,
+      "logoText": null,
+      "documentId": "onfjm81qca9cq4amsadztm0n",
+      "productSection": null,
+      "solutions": {
+        "id": 104,
+        "title": "Solutions",
+        "redirectLink": "https://www.ema.co/personas",
+        "listValue": [
+          {
+            "id": 570,
+            "value": "Customer Support",
+            "link": "https://www.ema.co/customer-support"
+          },
+          {
+            "id": 571,
+            "value": "Data Professional",
+            "link": "https://www.ema.co//personas#Data-Professional"
+          },
+          {
+            "id": 572,
+            "value": "Employee Assistant",
+            "link": "https://www.ema.co/personas#Employee-Assistant"
+          },
+          {
+            "id": 573,
+            "value": "Pharmacist Assistant",
+            "link": "https://www.ema.co/personas#Pharmacist-Assistant"
+          },
+          {
+            "id": 574,
+            "value": "Proposal Manager",
+            "link": "https://www.ema.co/personas#Proposal-Manager"
+          },
+          {
+            "id": 575,
+            "value": "Compliance Analyst",
+            "link": "https://www.ema.co/personas#Compliance-Analyst"
+          },
+          {
+            "id": 576,
+            "value": "FAQs",
+            "link": "https://support.ema.co/"
+          },
+          {
+            "id": 577,
+            "value": "Partners",
+            "link": "https://www.ema.co/partners"
+          },
+          {
+            "id": 578,
+            "value": "Integrations",
+            "link": "https://www.ema.co/integrations"
+          },
+          {
+            "id": 579,
+            "value": "Intelligent Actions",
+            "link": "https://www.ema.co/intelligent-actions"
+          }
+        ]
+      },
+      "resources": {
+        "id": 105,
+        "title": "Resources",
+        "redirectLink": "https://www.ema.co/resources",
+        "listValue": [
+          {
+            "id": 580,
+            "value": "Blogs",
+            "link": "https://www.ema.co/blog"
+          },
+          {
+            "id": 581,
+            "value": "Customers",
+            "link": "https://www.ema.co/resources#customer"
+          },
+          {
+            "id": 582,
+            "value": "Videos",
+            "link": "https://www.ema.co/resources#videos"
+          }
+        ]
+      },
+      "company": {
+        "id": 106,
+        "title": "Company",
+        "redirectLink": "https://www.ema.co/about-us",
+        "listValue": [
+          {
+            "id": 583,
+            "value": "About",
+            "link": "https://www.ema.co/about-us"
+          },
+          {
+            "id": 584,
+            "value": "Join the Team",
+            "link": "https://www.ema.co/careers"
+          },
+          {
+            "id": 585,
+            "value": "News",
+            "link": "https://www.ema.co/news"
+          },
+          {
+            "id": 586,
+            "value": "Our Advisors",
+            "link": "https://www.ema.co/advisors"
+          }
+        ]
+      },
+      "headerContent": [
+        {
+          "id": 136,
+          "title": "Products",
+          "redirect": null,
+          "isOpen": true
+        },
+        {
+          "id": 137,
+          "title": "Solutions",
+          "redirect": "https://www.ema.co/solutions",
+          "isOpen": true
+        },
+        {
+          "id": 138,
+          "title": "Resources",
+          "redirect": "https://www.ema.co/resources",
+          "isOpen": true
+        },
+        {
+          "id": 139,
+          "title": "Company",
+          "redirect": "https://www.ema.co/about-us",
+          "isOpen": true
+        }
+      ],
+      "subNavContent": [
+        {
+          "id": 311,
+          "title": "By Department",
+          "isComingSoon": false,
+          "link": null,
+          "customClass": null,
+          "subType": "Solutions",
+          "subPoints": [
+            {
+              "id": 1000,
+              "name": "Employee Experience ",
+              "redirectLink": "https://www.ema.co/employee-experience",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 945,
+                "name": "ex.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "ex_c60a258ead",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.75,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/ex_c60a258ead.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:34:18.055Z",
+                "updatedAt": "2025-03-24T14:34:18.055Z",
+                "documentId": "t72f5p08noyaoh1u2tzqn12n",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1001,
+              "name": "Customer Experience",
+              "redirectLink": "https://www.ema.co/customer-experience",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 947,
+                "name": "cx.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "cx_aaebeb9c8a",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.54,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/cx_aaebeb9c8a.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:34:18.182Z",
+                "updatedAt": "2025-03-24T14:34:18.182Z",
+                "documentId": "cby7er0dndy2pmdi8vvyiw5s",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1002,
+              "name": "Finance Operations",
+              "redirectLink": "https://www.ema.co/finops",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 2044,
+                "name": "Group 2147227958.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 96,
+                "height": 96,
+                "formats": null,
+                "hash": "Group_2147227958_7df72e1c96",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.85,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/Group_2147227958_7df72e1c96.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2026-02-25T09:26:41.944Z",
+                "updatedAt": "2026-02-25T09:26:41.944Z",
+                "documentId": "yiw3981ayosjrarsvhb33lym",
+                "publishedAt": "2026-02-25T09:26:41.945Z"
+              }
+            },
+            {
+              "id": 1003,
+              "name": "Sales and Marketing",
+              "redirectLink": "https://www.ema.co/sales-marketing",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 948,
+                "name": "sale.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "sale_9fecb5d6dc",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.45,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/sale_9fecb5d6dc.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:34:18.223Z",
+                "updatedAt": "2025-03-24T14:34:18.223Z",
+                "documentId": "iixhpfuhre4mxagt1d9jn0cp",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 312,
+          "title": "By Industry",
+          "isComingSoon": false,
+          "link": null,
+          "customClass": null,
+          "subType": "Solutions",
+          "subPoints": [
+            {
+              "id": 1004,
+              "name": "Healthcare",
+              "redirectLink": "https://www.ema.co/health-care",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 938,
+                "name": "health.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "health_f843ecdd97",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.77,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/health_f843ecdd97.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:34:15.953Z",
+                "updatedAt": "2025-03-24T14:34:15.953Z",
+                "documentId": "re8pt9hwilawdybdnyxlqa8c",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1005,
+              "name": "Insurance",
+              "redirectLink": "https://www.ema.co/insurance",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 940,
+                "name": "insurance.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "insurance_6abd847da0",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.56,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/insurance_6abd847da0.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:34:17.244Z",
+                "updatedAt": "2025-03-24T14:34:17.244Z",
+                "documentId": "yjeosqu7tol0f0h6rj7q6nxw",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1006,
+              "name": "Professional Services ",
+              "redirectLink": "https://www.ema.co/professional-services",
+              "isComingSoon": false,
+              "subtitle": null,
+              "logo": {
+                "id": 964,
+                "name": "profe-service.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "profe_service_d91d19fb8f",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.44,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/profe_service_d91d19fb8f.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T15:01:57.624Z",
+                "updatedAt": "2025-03-25T15:01:57.624Z",
+                "documentId": "ya3wjjv1vzu970o6m6otpup2",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 313,
+          "title": "Build an AI Employee",
+          "isComingSoon": false,
+          "link": null,
+          "customClass": null,
+          "subType": "Products",
+          "subPoints": [
+            {
+              "id": 1007,
+              "name": "AI Employee Builder",
+              "redirectLink": "https://www.ema.co/ai-employee-builder",
+              "isComingSoon": null,
+              "subtitle": "Build multi-agent workflows",
+              "logo": {
+                "id": 1862,
+                "name": "as.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 150,
+                "height": 150,
+                "formats": null,
+                "hash": "as_ac4496b2c6",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 1.17,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/as_ac4496b2c6.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-10-07T14:16:16.946Z",
+                "updatedAt": "2025-10-07T14:16:16.946Z",
+                "documentId": "ljrnn3dagdbzq71gponkxyit",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1008,
+              "name": "Pre-built AI Agents",
+              "redirectLink": "https://www.ema.co/agent-library",
+              "isComingSoon": false,
+              "subtitle": "100s of pre-built AI agents",
+              "logo": {
+                "id": 952,
+                "name": "agent.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "agent_9d0df556c7",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.58,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/agent_9d0df556c7.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:44:55.584Z",
+                "updatedAt": "2025-03-24T14:44:55.584Z",
+                "documentId": "bf4d855lt25cv1vqlo7ozoef",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1009,
+              "name": "Generative Workflow Engine",
+              "redirectLink": "https://www.ema.co/gwe-generative-workflow-engine",
+              "isComingSoon": false,
+              "subtitle": "Build AI Employees 10x faster",
+              "logo": {
+                "id": 956,
+                "name": "gwe.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "gwe_05db271c61",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.75,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/gwe_05db271c61.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:55:55.552Z",
+                "updatedAt": "2025-03-24T14:56:42.488Z",
+                "documentId": "evwqfri2ymo9vg35nqh2fg6s",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1010,
+              "name": "EmaFusion™",
+              "redirectLink": "https://www.ema.co/emafusion",
+              "isComingSoon": null,
+              "subtitle": "Harness the power of 100+ LLMs",
+              "logo": {
+                "id": 934,
+                "name": "Fusion.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "Fusion_cf71a5c221",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 1.19,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/Fusion_cf71a5c221.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-21T11:05:31.713Z",
+                "updatedAt": "2025-03-21T11:05:31.713Z",
+                "documentId": "nscpze8adt5si4hlikgxykaz",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 314,
+          "title": "Hire an AI Employee",
+          "isComingSoon": false,
+          "link": null,
+          "customClass": null,
+          "subType": "Products",
+          "subPoints": [
+            {
+              "id": 1011,
+              "name": "Explore Pre-built AI Employees",
+              "redirectLink": "https://www.ema.co/ai-employees",
+              "isComingSoon": false,
+              "subtitle": "Pre-built solutions for faster impact",
+              "logo": {
+                "id": 957,
+                "name": "all-employee.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "all_employee_62174e093d",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 1.02,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/all_employee_62174e093d.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T15:12:26.948Z",
+                "updatedAt": "2025-03-24T15:12:26.948Z",
+                "documentId": "g85cmgzmog2kdvppkh9z9jjp",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1012,
+              "name": "Document Intelligence ",
+              "redirectLink": "https://www.ema.co/document-analytics",
+              "isComingSoon": false,
+              "subtitle": "Transform data into decisions  ",
+              "logo": {
+                "id": 953,
+                "name": "doc-inte.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "doc_inte_61a159334b",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.76,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/doc_inte_61a159334b.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:55:54.538Z",
+                "updatedAt": "2025-03-24T14:55:54.538Z",
+                "documentId": "c8js80yo9iqtn1xst7f1ofcq",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1013,
+              "name": "Document Generation",
+              "redirectLink": "https://www.ema.co/doc-gen\n",
+              "isComingSoon": null,
+              "subtitle": "Create quality business docs faster ",
+              "logo": {
+                "id": 954,
+                "name": "doc-gen.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "doc_gen_758480a5f8",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.89,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/doc_gen_758480a5f8.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:55:54.854Z",
+                "updatedAt": "2025-03-24T14:55:54.854Z",
+                "documentId": "y068xfno0npicf71dhcdi49i",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1014,
+              "name": "Knowledge Insights",
+              "redirectLink": "https://www.ema.co/knowledge-insights",
+              "isComingSoon": false,
+              "subtitle": "Turn data to insights in seconds",
+              "logo": {
+                "id": 949,
+                "name": "know-in.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "know_in_18166b1bae",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.52,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/know_in_18166b1bae.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:34:18.236Z",
+                "updatedAt": "2025-03-24T14:34:18.236Z",
+                "documentId": "u2xkk0fmpl0rkr1wovwlmvp1",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1015,
+              "name": "Voice AI Employee",
+              "redirectLink": "https://www.ema.co/voice-ai-employee",
+              "isComingSoon": null,
+              "subtitle": "Conversations that deliver results",
+              "logo": {
+                "id": 1986,
+                "name": "audio-lines.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 150,
+                "height": 150,
+                "formats": null,
+                "hash": "audio_lines_21709cd4fc",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.45,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/audio_lines_21709cd4fc.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2026-01-13T09:51:13.134Z",
+                "updatedAt": "2026-01-13T09:51:13.134Z",
+                "documentId": "jjec3fkydgq8qjmdoodhu2tr",
+                "publishedAt": "2026-01-13T09:51:13.134Z"
+              }
+            },
+            {
+              "id": 1016,
+              "name": "App Navigator ",
+              "redirectLink": "https://www.ema.co/app-navigator",
+              "isComingSoon": null,
+              "subtitle": "Automate work anywhere",
+              "logo": {
+                "id": 2057,
+                "name": "hh.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 150,
+                "height": 150,
+                "formats": null,
+                "hash": "hh_b262532cf3",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.81,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/hh_b262532cf3.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2026-02-26T14:00:38.301Z",
+                "updatedAt": "2026-02-26T14:00:38.301Z",
+                "documentId": "iko9pmh2cs0nwagj6bmzsw38",
+                "publishedAt": "2026-02-26T14:00:38.301Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 315,
+          "title": "Trust & Security",
+          "isComingSoon": false,
+          "link": null,
+          "customClass": null,
+          "subType": "Products",
+          "subPoints": [
+            {
+              "id": 1017,
+              "name": "Trust and Security",
+              "redirectLink": "https://www.ema.co/trust-and-security",
+              "isComingSoon": false,
+              "subtitle": "Industry leading AI compliance",
+              "logo": {
+                "id": 951,
+                "name": "Trust.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "Trust_948de66603",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.45,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/Trust_948de66603.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:34:18.270Z",
+                "updatedAt": "2025-03-24T14:57:43.759Z",
+                "documentId": "xn8axfg8qf9vty6pccno7fno",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 316,
+          "title": "Explore",
+          "isComingSoon": null,
+          "link": null,
+          "customClass": null,
+          "subType": "Resources",
+          "subPoints": [
+            {
+              "id": 1018,
+              "name": "Blogs",
+              "redirectLink": "https://www.ema.co/blog",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 958,
+                "name": "blog-icon.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "blog_icon_55ed6faafe",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.34,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/blog_icon_55ed6faafe.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T14:45:28.449Z",
+                "updatedAt": "2025-03-25T14:45:28.449Z",
+                "documentId": "zh7fvjynt5w32gn0wqula15t",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1019,
+              "name": "Newsletter",
+              "redirectLink": "https://www.linkedin.com/newsletters/7284513593637707776/",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 959,
+                "name": "news-icon.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "news_icon_34484ab6cf",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.38,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/news_icon_34484ab6cf.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T14:46:17.836Z",
+                "updatedAt": "2025-03-25T14:46:17.836Z",
+                "documentId": "q2y0vwy216m38ujhmt0ps4qr",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1020,
+              "name": "Videos",
+              "redirectLink": "https://www.ema.co/resources#videos",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 960,
+                "name": "videos.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "videos_9e89bfbe21",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.68,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/videos_9e89bfbe21.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T14:47:01.187Z",
+                "updatedAt": "2025-03-25T14:47:01.187Z",
+                "documentId": "qkoxj7kmur5khr2zo2q5g13p",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1021,
+              "name": "Customer Stories",
+              "redirectLink": "https://www.ema.co/resources#customer",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 961,
+                "name": "customer.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "customer_7e9e3aa3cb",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.52,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/customer_7e9e3aa3cb.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T14:48:12.081Z",
+                "updatedAt": "2025-03-25T14:48:12.081Z",
+                "documentId": "f894yt1aq8c98k9ab2v9rsga",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1022,
+              "name": "Whitepapers",
+              "redirectLink": "https://www.ema.co/resources#whitePaper",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 963,
+                "name": "white.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "white_8fb1184a00",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.43,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/white_8fb1184a00.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T14:49:37.156Z",
+                "updatedAt": "2025-03-25T14:49:37.156Z",
+                "documentId": "ak15f7h8kinheuxjx3zf31ae",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 317,
+          "title": "Support",
+          "isComingSoon": null,
+          "link": null,
+          "customClass": null,
+          "subType": "Resources",
+          "subPoints": [
+            {
+              "id": 1023,
+              "name": "Ema Builder Docs",
+              "redirectLink": "https://builder.ema.co/",
+              "isComingSoon": false,
+              "subtitle": null,
+              "logo": {
+                "id": 965,
+                "name": "dev-doc.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "dev_doc_8418d2cb6d",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.5,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/dev_doc_8418d2cb6d.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T15:28:34.535Z",
+                "updatedAt": "2025-03-25T15:28:34.535Z",
+                "documentId": "y7016dwa0daxpirnm8dnzb8o",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1024,
+              "name": "Get Help",
+              "redirectLink": "https://support.ema.co/",
+              "isComingSoon": false,
+              "subtitle": null,
+              "logo": {
+                "id": 966,
+                "name": "get-help.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "get_help_6e8d3e5da1",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.73,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/get_help_6e8d3e5da1.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T15:28:34.847Z",
+                "updatedAt": "2025-03-25T15:28:34.847Z",
+                "documentId": "vjog4yrc27nyvr4q4s09ed8u",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 318,
+          "title": null,
+          "isComingSoon": null,
+          "link": null,
+          "customClass": null,
+          "subType": "Company",
+          "subPoints": [
+            {
+              "id": 1025,
+              "name": "About",
+              "redirectLink": "https://www.ema.co/about-us",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 967,
+                "name": "about.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "about_c0fa61d7fd",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.47,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/about_c0fa61d7fd.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T15:36:31.369Z",
+                "updatedAt": "2025-03-25T15:36:31.369Z",
+                "documentId": "x198f904b4k2m2fvbvc2bhm7",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1026,
+              "name": "Join the Team",
+              "redirectLink": "https://www.ema.co/careers",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 970,
+                "name": "join-1.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "join_1_0afe2223a3",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.56,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/join_1_0afe2223a3.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T15:37:37.826Z",
+                "updatedAt": "2025-03-25T15:37:37.826Z",
+                "documentId": "qfn8zvea68nx29o7ceyz2fpd",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1027,
+              "name": "News",
+              "redirectLink": "https://www.ema.co/news",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 971,
+                "name": "news-c.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "news_c_e4c5a619f1",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.48,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/news_c_e4c5a619f1.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T15:38:56.658Z",
+                "updatedAt": "2025-03-25T15:38:56.658Z",
+                "documentId": "oslmpooq9xae3i7wug6a2duw",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1028,
+              "name": "Our Advisors",
+              "redirectLink": "https://www.ema.co/advisors",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 972,
+                "name": "adv.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "adv_6a850f1d7b",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 1.03,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/adv_6a850f1d7b.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T15:39:19.648Z",
+                "updatedAt": "2025-03-25T15:39:19.648Z",
+                "documentId": "ypsn6zsr0xo2vlarkz3s9h9t",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 319,
+          "title": "Ema Academy",
+          "isComingSoon": null,
+          "link": null,
+          "customClass": null,
+          "subType": "Resources",
+          "subPoints": [
+            {
+              "id": 1029,
+              "name": "Builder Academy",
+              "redirectLink": "https://www.ema.co/academy",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 2017,
+                "name": "Group 2147226983 (3).png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 96,
+                "height": 96,
+                "formats": null,
+                "hash": "Group_2147226983_3_d9c8ef88e3",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.72,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/Group_2147226983_3_d9c8ef88e3.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2026-02-11T07:38:35.584Z",
+                "updatedAt": "2026-02-11T07:38:35.584Z",
+                "documentId": "lgvr0rzdgkydocfit7z6fver",
+                "publishedAt": "2026-02-11T07:38:35.584Z"
+              }
+            }
+          ]
+        }
+      ],
+      "topBanner": {
+        "id": 34,
+        "title": "Explore the new voice of enterprise automation",
+        "link": "https://www.ema.co/voice-ai-employee",
+        "showBanner": false,
+        "btnText": "Try now",
+        "pagesToHide": [
+          {
+            "id": 65,
+            "url": "/builder",
+            "paegType": null
+          },
+          {
+            "id": 66,
+            "url": "/voice-ai-employee",
+            "paegType": null
+          }
+        ]
+      }
+    },
+    "theme": "BLACK"
+  }
+}

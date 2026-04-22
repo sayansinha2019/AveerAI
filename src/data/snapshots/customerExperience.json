@@ -1,0 +1,3553 @@
+{
+  "page": "/customer-experience",
+  "pageProps": {
+    "pageData": {
+      "id": 11,
+      "createdAt": "2025-04-07T12:30:11.225Z",
+      "updatedAt": "2026-03-26T07:16:39.682Z",
+      "publishedAt": "2026-03-26T07:16:40.407Z",
+      "documentId": "hz0meeu0esniaojmdc5793vk",
+      "cxHeroSection": {
+        "id": 25,
+        "heroSubtitle": "Optimize every stage of your customer’s journey with Ema’s AI employees ",
+        "heroTitle": "Scalable Customer Experience and Always-on Service that Helps Grow Business, not Headcount ",
+        "heroDescription": "Deflect routine queries, handle multi-turn conversations, train your agents with actionable data, assist with complex experience tasks, and surface actionable insights.",
+        "heroCTAText": "Hire Ema",
+        "heroCTALink": "https://www.ema.co/hire-customer-support-assistant",
+        "herodescription2": "Ema optimizes every stage of the customer lifecycle—with a coordinated team of AI employees.",
+        "heroVideo": {
+          "id": 1113,
+          "name": "CX Suite - subtitles (1).mp4",
+          "alternativeText": null,
+          "caption": null,
+          "width": null,
+          "height": null,
+          "formats": null,
+          "hash": "CX_Suite_subtitles_1_0c76196473",
+          "ext": ".mp4",
+          "mime": "video/mp4",
+          "size": 19969.42,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/CX_Suite_subtitles_1_0c76196473.mp4",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-04-10T13:20:54.404Z",
+          "updatedAt": "2025-04-10T13:20:54.404Z",
+          "documentId": "p1lo1rjqaliyp67gxmpjksu5",
+          "publishedAt": "2025-10-30T06:16:42.442Z",
+          "related": [
+            {
+              "__type": "ema-fusion.fusion-hero",
+              "id": 4,
+              "heroSubtitle": "Optimize every stage of your customer’s journey with Ema’s AI employees ",
+              "heroTitle": "Scalable Customer Experience and Always-on Service that Helps Grow Business, not Headcount ",
+              "heroDescription": "Deflect routine queries, handle multi-turn conversations, train your agents with actionable data, assist with complex experience tasks, and surface actionable insights.",
+              "heroCTAText": "Hire Ema",
+              "heroCTALink": "https://www.ema.co/hire-customer-support-assistant",
+              "herodescription2": "Ema optimizes every stage of the customer lifecycle—with a coordinated team of AI employees."
+            },
+            {
+              "__type": "ema-fusion.fusion-hero",
+              "id": 25,
+              "heroSubtitle": "Optimize every stage of your customer’s journey with Ema’s AI employees ",
+              "heroTitle": "Scalable Customer Experience and Always-on Service that Helps Grow Business, not Headcount ",
+              "heroDescription": "Deflect routine queries, handle multi-turn conversations, train your agents with actionable data, assist with complex experience tasks, and surface actionable insights.",
+              "heroCTAText": "Hire Ema",
+              "heroCTALink": "https://www.ema.co/hire-customer-support-assistant",
+              "herodescription2": "Ema optimizes every stage of the customer lifecycle—with a coordinated team of AI employees."
+            }
+          ]
+        },
+        "heroImage": {
+          "id": 1114,
+          "name": "product-01.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 8000,
+          "height": 4500,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/large_product_01_79f8ecf750.png",
+              "hash": "large_product_01_79f8ecf750",
+              "mime": "image/png",
+              "name": "large_product-01.png",
+              "path": null,
+              "size": 290.3,
+              "width": 1000,
+              "height": 563,
+              "sizeInBytes": 290303
+            },
+            "small": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_product_01_79f8ecf750.png",
+              "hash": "small_product_01_79f8ecf750",
+              "mime": "image/png",
+              "name": "small_product-01.png",
+              "path": null,
+              "size": 107.36,
+              "width": 500,
+              "height": 281,
+              "sizeInBytes": 107361
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/medium_product_01_79f8ecf750.png",
+              "hash": "medium_product_01_79f8ecf750",
+              "mime": "image/png",
+              "name": "medium_product-01.png",
+              "path": null,
+              "size": 180.3,
+              "width": 750,
+              "height": 422,
+              "sizeInBytes": 180298
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_product_01_79f8ecf750.png",
+              "hash": "thumbnail_product_01_79f8ecf750",
+              "mime": "image/png",
+              "name": "thumbnail_product-01.png",
+              "path": null,
+              "size": 38.57,
+              "width": 245,
+              "height": 138,
+              "sizeInBytes": 38569
+            }
+          },
+          "hash": "product_01_79f8ecf750",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 2901.14,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/product_01_79f8ecf750.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-04-10T13:21:23.971Z",
+          "updatedAt": "2025-04-10T13:21:23.971Z",
+          "documentId": "krffu1nj3x7fgjh55k5esgyd",
+          "publishedAt": "2025-10-30T06:16:42.442Z",
+          "related": [
+            {
+              "__type": "ema-fusion.fusion-hero",
+              "id": 4,
+              "heroSubtitle": "Optimize every stage of your customer’s journey with Ema’s AI employees ",
+              "heroTitle": "Scalable Customer Experience and Always-on Service that Helps Grow Business, not Headcount ",
+              "heroDescription": "Deflect routine queries, handle multi-turn conversations, train your agents with actionable data, assist with complex experience tasks, and surface actionable insights.",
+              "heroCTAText": "Hire Ema",
+              "heroCTALink": "https://www.ema.co/hire-customer-support-assistant",
+              "herodescription2": "Ema optimizes every stage of the customer lifecycle—with a coordinated team of AI employees."
+            },
+            {
+              "__type": "ema-fusion.fusion-hero",
+              "id": 25,
+              "heroSubtitle": "Optimize every stage of your customer’s journey with Ema’s AI employees ",
+              "heroTitle": "Scalable Customer Experience and Always-on Service that Helps Grow Business, not Headcount ",
+              "heroDescription": "Deflect routine queries, handle multi-turn conversations, train your agents with actionable data, assist with complex experience tasks, and surface actionable insights.",
+              "heroCTAText": "Hire Ema",
+              "heroCTALink": "https://www.ema.co/hire-customer-support-assistant",
+              "herodescription2": "Ema optimizes every stage of the customer lifecycle—with a coordinated team of AI employees."
+            }
+          ]
+        }
+      },
+      "CxRoles": {
+        "id": 41,
+        "title": "Customer Support Reimagined with Ema's CX Suite of AI Employees",
+        "toppill": "Choose Ema’s Role to Start",
+        "CxEmployess": [
+          {
+            "id": 214,
+            "slug": "voice-ai-employee",
+            "topTitle": "Voice AI",
+            "title": "Voice AI employee",
+            "description": "Ema connects seamlessly across channels - voice, messages, and email, delivering natural, contextual, and actionable conversations that go beyond traditional support.",
+            "points": [
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Speak naturally and get instant, empathetic responses - in 30+ languages. ",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Move fluidly between channels - voice, chat, or email with full context carried over.",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Get problems solved end-to-end, not just answered, so they feel heard and not handled. ",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Explore Voice AI Employee",
+            "buttonLink": "https://www.ema.co/voice-ai-employee",
+            "descriptionBig": null,
+            "subDesc": null,
+            "asset": {
+              "id": 1922,
+              "name": "Group 2147227778.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 559,
+              "height": 630,
+              "formats": {
+                "small": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_Group_2147227778_645cbf2801.png",
+                  "hash": "small_Group_2147227778_645cbf2801",
+                  "mime": "image/png",
+                  "name": "small_Group 2147227778.png",
+                  "path": null,
+                  "size": 400.31,
+                  "width": 444,
+                  "height": 500,
+                  "sizeInBytes": 400312
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_Group_2147227778_645cbf2801.png",
+                  "hash": "thumbnail_Group_2147227778_645cbf2801",
+                  "mime": "image/png",
+                  "name": "thumbnail_Group 2147227778.png",
+                  "path": null,
+                  "size": 52.78,
+                  "width": 138,
+                  "height": 156,
+                  "sizeInBytes": 52777
+                }
+              },
+              "hash": "Group_2147227778_645cbf2801",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 135.22,
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/Group_2147227778_645cbf2801.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-11-12T08:20:10.281Z",
+              "updatedAt": "2025-11-12T08:20:10.281Z",
+              "documentId": "tncg1xur1lqw0fhchjd24wnd",
+              "publishedAt": "2025-11-12T08:20:10.282Z",
+              "related": [
+                {
+                  "__type": "cx-employess.cx-employess",
+                  "id": 214,
+                  "slug": "voice-ai-employee",
+                  "topTitle": "Voice AI",
+                  "title": "Voice AI employee",
+                  "description": "Ema connects seamlessly across channels - voice, messages, and email, delivering natural, contextual, and actionable conversations that go beyond traditional support.",
+                  "points": [
+                    {
+                      "type": "list",
+                      "format": "unordered",
+                      "children": [
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Speak naturally and get instant, empathetic responses - in 30+ languages. ",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Move fluidly between channels - voice, chat, or email with full context carried over.",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Get problems solved end-to-end, not just answered, so they feel heard and not handled. ",
+                              "type": "text"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "buttonText": "Explore Voice AI Employee",
+                  "buttonLink": "https://www.ema.co/voice-ai-employee",
+                  "descriptionBig": null,
+                  "subDesc": null
+                },
+                {
+                  "__type": "cx-employess.cx-employess",
+                  "id": 93,
+                  "slug": "voice-ai-employee",
+                  "topTitle": "Voice AI",
+                  "title": "Voice AI employee",
+                  "description": "Ema connects seamlessly across channels - voice, messages, and email, delivering natural, contextual, and actionable conversations that go beyond traditional support.",
+                  "points": [
+                    {
+                      "type": "list",
+                      "format": "unordered",
+                      "children": [
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Speak naturally and get instant, empathetic responses - in 30+ languages. ",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Move fluidly between channels - voice, chat, or email with full context carried over.",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Get problems solved end-to-end, not just answered, so they feel heard and not handled. ",
+                              "type": "text"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "buttonText": "Explore Voice AI Employee",
+                  "buttonLink": "https://www.ema.co/voice-ai-employee",
+                  "descriptionBig": null,
+                  "subDesc": null
+                }
+              ]
+            },
+            "assetMobile": [
+              {
+                "id": 1923,
+                "name": "mobile voice.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 333,
+                "height": 376,
+                "formats": {
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_mobile_voice_31b664126f.png",
+                    "hash": "thumbnail_mobile_voice_31b664126f",
+                    "mime": "image/png",
+                    "name": "thumbnail_mobile voice.png",
+                    "path": null,
+                    "size": 53.25,
+                    "width": 138,
+                    "height": 156,
+                    "sizeInBytes": 53245
+                  }
+                },
+                "hash": "mobile_voice_31b664126f",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 61.45,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/mobile_voice_31b664126f.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-11-12T08:22:44.841Z",
+                "updatedAt": "2025-11-12T08:22:44.841Z",
+                "documentId": "oueizl2nyigvxdt35iituoum",
+                "publishedAt": "2025-11-12T08:22:44.841Z",
+                "related": [
+                  {
+                    "__type": "cx-employess.cx-employess",
+                    "id": 93,
+                    "slug": "voice-ai-employee",
+                    "topTitle": "Voice AI",
+                    "title": "Voice AI employee",
+                    "description": "Ema connects seamlessly across channels - voice, messages, and email, delivering natural, contextual, and actionable conversations that go beyond traditional support.",
+                    "points": [
+                      {
+                        "type": "list",
+                        "format": "unordered",
+                        "children": [
+                          {
+                            "type": "list-item",
+                            "children": [
+                              {
+                                "text": "Speak naturally and get instant, empathetic responses - in 30+ languages. ",
+                                "type": "text"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list-item",
+                            "children": [
+                              {
+                                "text": "Move fluidly between channels - voice, chat, or email with full context carried over.",
+                                "type": "text"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list-item",
+                            "children": [
+                              {
+                                "text": "Get problems solved end-to-end, not just answered, so they feel heard and not handled. ",
+                                "type": "text"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "buttonText": "Explore Voice AI Employee",
+                    "buttonLink": "https://www.ema.co/voice-ai-employee",
+                    "descriptionBig": null,
+                    "subDesc": null
+                  },
+                  {
+                    "__type": "cx-employess.cx-employess",
+                    "id": 214,
+                    "slug": "voice-ai-employee",
+                    "topTitle": "Voice AI",
+                    "title": "Voice AI employee",
+                    "description": "Ema connects seamlessly across channels - voice, messages, and email, delivering natural, contextual, and actionable conversations that go beyond traditional support.",
+                    "points": [
+                      {
+                        "type": "list",
+                        "format": "unordered",
+                        "children": [
+                          {
+                            "type": "list-item",
+                            "children": [
+                              {
+                                "text": "Speak naturally and get instant, empathetic responses - in 30+ languages. ",
+                                "type": "text"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list-item",
+                            "children": [
+                              {
+                                "text": "Move fluidly between channels - voice, chat, or email with full context carried over.",
+                                "type": "text"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list-item",
+                            "children": [
+                              {
+                                "text": "Get problems solved end-to-end, not just answered, so they feel heard and not handled. ",
+                                "type": "text"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "buttonText": "Explore Voice AI Employee",
+                    "buttonLink": "https://www.ema.co/voice-ai-employee",
+                    "descriptionBig": null,
+                    "subDesc": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 215,
+            "slug": "customer-support ",
+            "topTitle": "Customer Support ",
+            "title": "Customer Support AI Employee ",
+            "description": "Resolve >75% of customer issues with autonomous query handling.  Delight customers with instant resolutions and keep human agents focused on high-value engagements.",
+            "points": [
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Deflect issues before they become tickets",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "On-brand, conversational & available 24/7 ",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Takes complex multi-step actions",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Explore Customer Support AI Employee",
+            "buttonLink": "/customer-support-assistant",
+            "descriptionBig": null,
+            "subDesc": null,
+            "asset": {
+              "id": 1145,
+              "name": "Ema Customer Support AI.json",
+              "alternativeText": null,
+              "caption": null,
+              "width": null,
+              "height": null,
+              "formats": null,
+              "hash": "Ema_Customer_Support_AI_3fae2f3bcc",
+              "ext": ".json",
+              "mime": "application/json",
+              "size": 206.15,
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/Ema_Customer_Support_AI_3fae2f3bcc.json",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-04-16T22:21:51.266Z",
+              "updatedAt": "2025-04-16T22:21:51.266Z",
+              "documentId": "uks95o2qyt6cbrnklhbr0kit",
+              "publishedAt": "2025-10-30T06:16:42.442Z",
+              "related": [
+                {
+                  "__type": "cx-employess.cx-employess",
+                  "id": 34,
+                  "slug": "customer-support ",
+                  "topTitle": "Customer Support ",
+                  "title": "Customer Support AI Employee ",
+                  "description": "Resolve >75% of customer issues with autonomous query handling.  Delight customers with instant resolutions and keep human agents focused on high-value engagements.",
+                  "points": [
+                    {
+                      "type": "list",
+                      "format": "unordered",
+                      "children": [
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Deflect issues before they become tickets",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "On-brand, conversational & available 24/7 ",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Takes complex multi-step actions",
+                              "type": "text"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "buttonText": "Explore Customer Support AI Employee",
+                  "buttonLink": "/customer-support-assistant",
+                  "descriptionBig": null,
+                  "subDesc": null
+                },
+                {
+                  "__type": "cx-employess.cx-employess",
+                  "id": 215,
+                  "slug": "customer-support ",
+                  "topTitle": "Customer Support ",
+                  "title": "Customer Support AI Employee ",
+                  "description": "Resolve >75% of customer issues with autonomous query handling.  Delight customers with instant resolutions and keep human agents focused on high-value engagements.",
+                  "points": [
+                    {
+                      "type": "list",
+                      "format": "unordered",
+                      "children": [
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Deflect issues before they become tickets",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "On-brand, conversational & available 24/7 ",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Takes complex multi-step actions",
+                              "type": "text"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "buttonText": "Explore Customer Support AI Employee",
+                  "buttonLink": "/customer-support-assistant",
+                  "descriptionBig": null,
+                  "subDesc": null
+                }
+              ]
+            },
+            "assetMobile": null
+          },
+          {
+            "id": 216,
+            "slug": "agent-assist ",
+            "topTitle": "Agent Assist ",
+            "title": "Agent Assist AI Employee ",
+            "description": "Save over 80% of agent time by resolving complex L2/L3 tickets. Ema coordinates with multiple systems, uses image recognition and can switch seamlessly to auto-mode for faster resolutions.",
+            "points": [
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Leverage historical tickets, tribal knowledge & SOPs to assist agents ",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Handle multi-party and multi-turn conversations ",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Improve with continuous feedback",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Explore Agent Assist AI employee",
+            "buttonLink": "/customer-support-assistant",
+            "descriptionBig": null,
+            "subDesc": null,
+            "asset": {
+              "id": 1090,
+              "name": "image-2.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1188,
+              "height": 1153,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/large_image_2_bd62b4c3b6.png",
+                  "hash": "large_image_2_bd62b4c3b6",
+                  "mime": "image/png",
+                  "name": "large_image-2.png",
+                  "path": null,
+                  "size": 254.34,
+                  "width": 1000,
+                  "height": 971,
+                  "sizeInBytes": 254338
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_image_2_bd62b4c3b6.png",
+                  "hash": "small_image_2_bd62b4c3b6",
+                  "mime": "image/png",
+                  "name": "small_image-2.png",
+                  "path": null,
+                  "size": 77.18,
+                  "width": 500,
+                  "height": 485,
+                  "sizeInBytes": 77184
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/medium_image_2_bd62b4c3b6.png",
+                  "hash": "medium_image_2_bd62b4c3b6",
+                  "mime": "image/png",
+                  "name": "medium_image-2.png",
+                  "path": null,
+                  "size": 156.84,
+                  "width": 750,
+                  "height": 728,
+                  "sizeInBytes": 156841
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_image_2_bd62b4c3b6.png",
+                  "hash": "thumbnail_image_2_bd62b4c3b6",
+                  "mime": "image/png",
+                  "name": "thumbnail_image-2.png",
+                  "path": null,
+                  "size": 14.18,
+                  "width": 161,
+                  "height": 156,
+                  "sizeInBytes": 14180
+                }
+              },
+              "hash": "image_2_bd62b4c3b6",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 43.46,
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/image_2_bd62b4c3b6.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-04-07T12:17:20.335Z",
+              "updatedAt": "2025-04-07T12:17:20.335Z",
+              "documentId": "bojiyk6qelnaqlsexygogaod",
+              "publishedAt": "2025-10-30T06:16:42.442Z",
+              "related": [
+                {
+                  "__type": "cx-employess.cx-employess",
+                  "id": 35,
+                  "slug": "agent-assist ",
+                  "topTitle": "Agent Assist ",
+                  "title": "Agent Assist AI Employee ",
+                  "description": "Save over 80% of agent time by resolving complex L2/L3 tickets. Ema coordinates with multiple systems, uses image recognition and can switch seamlessly to auto-mode for faster resolutions.",
+                  "points": [
+                    {
+                      "type": "list",
+                      "format": "unordered",
+                      "children": [
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Leverage historical tickets, tribal knowledge & SOPs to assist agents ",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Handle multi-party and multi-turn conversations ",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Improve with continuous feedback",
+                              "type": "text"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "buttonText": "Explore Agent Assist AI employee",
+                  "buttonLink": "/customer-support-assistant",
+                  "descriptionBig": null,
+                  "subDesc": null
+                },
+                {
+                  "__type": "cx-employess.cx-employess",
+                  "id": 216,
+                  "slug": "agent-assist ",
+                  "topTitle": "Agent Assist ",
+                  "title": "Agent Assist AI Employee ",
+                  "description": "Save over 80% of agent time by resolving complex L2/L3 tickets. Ema coordinates with multiple systems, uses image recognition and can switch seamlessly to auto-mode for faster resolutions.",
+                  "points": [
+                    {
+                      "type": "list",
+                      "format": "unordered",
+                      "children": [
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Leverage historical tickets, tribal knowledge & SOPs to assist agents ",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Handle multi-party and multi-turn conversations ",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Improve with continuous feedback",
+                              "type": "text"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "buttonText": "Explore Agent Assist AI employee",
+                  "buttonLink": "/customer-support-assistant",
+                  "descriptionBig": null,
+                  "subDesc": null
+                }
+              ]
+            },
+            "assetMobile": null
+          },
+          {
+            "id": 217,
+            "slug": "agent-QA",
+            "topTitle": "Agent QA ",
+            "title": "Agent QA AI Employee",
+            "description": "Evaluate 100% of conversations and make every agent into a “super agent”. Review all interactions, surface actionable insights to provide targeted feedback and eliminate bias. ",
+            "points": [
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Enable Managers Coach More Instead Of Evaluating ",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Evaluate 100% of Conversations",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Ensure regulatory/SLA Compliance",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Hire Ema",
+            "buttonLink": "/hire-ema",
+            "descriptionBig": null,
+            "subDesc": null,
+            "asset": {
+              "id": 1146,
+              "name": "Ema Agent QA.json",
+              "alternativeText": null,
+              "caption": null,
+              "width": null,
+              "height": null,
+              "formats": null,
+              "hash": "Ema_Agent_QA_64bd3160f2",
+              "ext": ".json",
+              "mime": "application/json",
+              "size": 136.69,
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/Ema_Agent_QA_64bd3160f2.json",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-04-17T08:48:50.815Z",
+              "updatedAt": "2025-04-17T08:48:50.815Z",
+              "documentId": "privyj824k6xi2g16fufu5ys",
+              "publishedAt": "2025-10-30T06:16:42.442Z",
+              "related": [
+                {
+                  "__type": "cx-employess.cx-employess",
+                  "id": 36,
+                  "slug": "agent-QA",
+                  "topTitle": "Agent QA ",
+                  "title": "Agent QA AI Employee",
+                  "description": "Evaluate 100% of conversations and make every agent into a “super agent”. Review all interactions, surface actionable insights to provide targeted feedback and eliminate bias. ",
+                  "points": [
+                    {
+                      "type": "list",
+                      "format": "unordered",
+                      "children": [
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Enable Managers Coach More Instead Of Evaluating ",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Evaluate 100% of Conversations",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Ensure regulatory/SLA Compliance",
+                              "type": "text"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "buttonText": "Hire Ema",
+                  "buttonLink": "/hire-ema",
+                  "descriptionBig": null,
+                  "subDesc": null
+                },
+                {
+                  "__type": "cx-employess.cx-employess",
+                  "id": 217,
+                  "slug": "agent-QA",
+                  "topTitle": "Agent QA ",
+                  "title": "Agent QA AI Employee",
+                  "description": "Evaluate 100% of conversations and make every agent into a “super agent”. Review all interactions, surface actionable insights to provide targeted feedback and eliminate bias. ",
+                  "points": [
+                    {
+                      "type": "list",
+                      "format": "unordered",
+                      "children": [
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Enable Managers Coach More Instead Of Evaluating ",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Evaluate 100% of Conversations",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Ensure regulatory/SLA Compliance",
+                              "type": "text"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "buttonText": "Hire Ema",
+                  "buttonLink": "/hire-ema",
+                  "descriptionBig": null,
+                  "subDesc": null
+                }
+              ]
+            },
+            "assetMobile": null
+          },
+          {
+            "id": 218,
+            "slug": "knowledge-base-augmentor",
+            "topTitle": "Knowledge Base Augmentor",
+            "title": "Knowledge Base Augmentor AI Employee ",
+            "description": "Codify tribal knowledge, uncover missing or outdated information and update automatically. Remove manual overhead and keep your knowledge base up-to-date. ",
+            "points": [
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Auto-Detect and Update Knowledge Gaps ",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Reimagine Knowledge Management Processes",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Democratize tribal knowledge",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Hire Ema",
+            "buttonLink": "/hire-ema",
+            "descriptionBig": null,
+            "subDesc": null,
+            "asset": {
+              "id": 1091,
+              "name": "image-4.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1186,
+              "height": 1161,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/large_image_4_b59c9719d2.png",
+                  "hash": "large_image_4_b59c9719d2",
+                  "mime": "image/png",
+                  "name": "large_image-4.png",
+                  "path": null,
+                  "size": 258.15,
+                  "width": 1000,
+                  "height": 979,
+                  "sizeInBytes": 258152
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_image_4_b59c9719d2.png",
+                  "hash": "small_image_4_b59c9719d2",
+                  "mime": "image/png",
+                  "name": "small_image-4.png",
+                  "path": null,
+                  "size": 76.85,
+                  "width": 500,
+                  "height": 489,
+                  "sizeInBytes": 76847
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/medium_image_4_b59c9719d2.png",
+                  "hash": "medium_image_4_b59c9719d2",
+                  "mime": "image/png",
+                  "name": "medium_image-4.png",
+                  "path": null,
+                  "size": 156.31,
+                  "width": 750,
+                  "height": 734,
+                  "sizeInBytes": 156309
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_image_4_b59c9719d2.png",
+                  "hash": "thumbnail_image_4_b59c9719d2",
+                  "mime": "image/png",
+                  "name": "thumbnail_image-4.png",
+                  "path": null,
+                  "size": 14.42,
+                  "width": 159,
+                  "height": 156,
+                  "sizeInBytes": 14416
+                }
+              },
+              "hash": "image_4_b59c9719d2",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 52.26,
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/image_4_b59c9719d2.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-04-07T12:17:20.422Z",
+              "updatedAt": "2025-04-07T12:17:20.422Z",
+              "documentId": "zkzpk6ip1u6wrzteyylh2dt3",
+              "publishedAt": "2025-10-30T06:16:42.442Z",
+              "related": [
+                {
+                  "__type": "cx-employess.cx-employess",
+                  "id": 218,
+                  "slug": "knowledge-base-augmentor",
+                  "topTitle": "Knowledge Base Augmentor",
+                  "title": "Knowledge Base Augmentor AI Employee ",
+                  "description": "Codify tribal knowledge, uncover missing or outdated information and update automatically. Remove manual overhead and keep your knowledge base up-to-date. ",
+                  "points": [
+                    {
+                      "type": "list",
+                      "format": "unordered",
+                      "children": [
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Auto-Detect and Update Knowledge Gaps ",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Reimagine Knowledge Management Processes",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Democratize tribal knowledge",
+                              "type": "text"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "buttonText": "Hire Ema",
+                  "buttonLink": "/hire-ema",
+                  "descriptionBig": null,
+                  "subDesc": null
+                },
+                {
+                  "__type": "cx-employess.cx-employess",
+                  "id": 37,
+                  "slug": "knowledge-base-augmentor",
+                  "topTitle": "Knowledge Base Augmentor",
+                  "title": "Knowledge Base Augmentor AI Employee ",
+                  "description": "Codify tribal knowledge, uncover missing or outdated information and update automatically. Remove manual overhead and keep your knowledge base up-to-date. ",
+                  "points": [
+                    {
+                      "type": "list",
+                      "format": "unordered",
+                      "children": [
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Auto-Detect and Update Knowledge Gaps ",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Reimagine Knowledge Management Processes",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Democratize tribal knowledge",
+                              "type": "text"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "buttonText": "Hire Ema",
+                  "buttonLink": "/hire-ema",
+                  "descriptionBig": null,
+                  "subDesc": null
+                }
+              ]
+            },
+            "assetMobile": null
+          },
+          {
+            "id": 219,
+            "slug": "insight-finder ",
+            "topTitle": "Insight Finder ",
+            "title": "Insight Finder AI Employee",
+            "description": "Analyze every interaction to unlock new revenue opportunities. Uncover upsell and cross-sell opportunities, prevent churn, and optimize operations.  ",
+            "points": [
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Turn customer support into revenue center",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Prevent churn proactively",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Focus resources on high-impact areas",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "buttonText": "Hire Ema",
+            "buttonLink": "/hire-ema",
+            "descriptionBig": null,
+            "subDesc": null,
+            "asset": {
+              "id": 1089,
+              "name": "image-5.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1186,
+              "height": 1161,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/large_image_5_be0928b5f4.png",
+                  "hash": "large_image_5_be0928b5f4",
+                  "mime": "image/png",
+                  "name": "large_image-5.png",
+                  "path": null,
+                  "size": 254.44,
+                  "width": 1000,
+                  "height": 979,
+                  "sizeInBytes": 254437
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_image_5_be0928b5f4.png",
+                  "hash": "small_image_5_be0928b5f4",
+                  "mime": "image/png",
+                  "name": "small_image-5.png",
+                  "path": null,
+                  "size": 75.32,
+                  "width": 500,
+                  "height": 489,
+                  "sizeInBytes": 75320
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/medium_image_5_be0928b5f4.png",
+                  "hash": "medium_image_5_be0928b5f4",
+                  "mime": "image/png",
+                  "name": "medium_image-5.png",
+                  "path": null,
+                  "size": 154.28,
+                  "width": 750,
+                  "height": 734,
+                  "sizeInBytes": 154275
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_image_5_be0928b5f4.png",
+                  "hash": "thumbnail_image_5_be0928b5f4",
+                  "mime": "image/png",
+                  "name": "thumbnail_image-5.png",
+                  "path": null,
+                  "size": 14.04,
+                  "width": 159,
+                  "height": 156,
+                  "sizeInBytes": 14036
+                }
+              },
+              "hash": "image_5_be0928b5f4",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 51.12,
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/image_5_be0928b5f4.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-04-07T12:17:20.327Z",
+              "updatedAt": "2025-04-07T12:17:20.327Z",
+              "documentId": "b2c5y7jr3pvt2lezt3phr9h1",
+              "publishedAt": "2025-10-30T06:16:42.442Z",
+              "related": [
+                {
+                  "__type": "cx-employess.cx-employess",
+                  "id": 219,
+                  "slug": "insight-finder ",
+                  "topTitle": "Insight Finder ",
+                  "title": "Insight Finder AI Employee",
+                  "description": "Analyze every interaction to unlock new revenue opportunities. Uncover upsell and cross-sell opportunities, prevent churn, and optimize operations.  ",
+                  "points": [
+                    {
+                      "type": "list",
+                      "format": "unordered",
+                      "children": [
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Turn customer support into revenue center",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Prevent churn proactively",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Focus resources on high-impact areas",
+                              "type": "text"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "buttonText": "Hire Ema",
+                  "buttonLink": "/hire-ema",
+                  "descriptionBig": null,
+                  "subDesc": null
+                },
+                {
+                  "__type": "cx-employess.cx-employess",
+                  "id": 38,
+                  "slug": "insight-finder ",
+                  "topTitle": "Insight Finder ",
+                  "title": "Insight Finder AI Employee",
+                  "description": "Analyze every interaction to unlock new revenue opportunities. Uncover upsell and cross-sell opportunities, prevent churn, and optimize operations.  ",
+                  "points": [
+                    {
+                      "type": "list",
+                      "format": "unordered",
+                      "children": [
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Turn customer support into revenue center",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Prevent churn proactively",
+                              "type": "text"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list-item",
+                          "children": [
+                            {
+                              "text": "Focus resources on high-impact areas",
+                              "type": "text"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "buttonText": "Hire Ema",
+                  "buttonLink": "/hire-ema",
+                  "descriptionBig": null,
+                  "subDesc": null
+                }
+              ]
+            },
+            "assetMobile": null
+          }
+        ]
+      },
+      "CxPreBuiltSection": {
+        "id": 10,
+        "title": "200+ Pre-Built Integrations to Streamline Customer Experience ",
+        "description": "Centralize workstreams across multiple apps, and ensure teams have full context —no more toggling between tools or losing valuable insights",
+        "backgroudAsset": {
+          "id": 1099,
+          "name": "Streamline_cx_v1.json",
+          "alternativeText": null,
+          "caption": null,
+          "width": null,
+          "height": null,
+          "formats": null,
+          "hash": "Streamline_cx_v1_4a711e479f",
+          "ext": ".json",
+          "mime": "application/json",
+          "size": 453.69,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/Streamline_cx_v1_4a711e479f.json",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-04-08T13:04:13.456Z",
+          "updatedAt": "2025-04-08T13:04:13.456Z",
+          "documentId": "f22nzckaigfi0ioouga52877",
+          "publishedAt": "2025-10-30T06:16:42.442Z"
+        },
+        "centerLogo": {
+          "id": 1085,
+          "name": "ema-logo-center.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 701,
+          "height": 700,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_ema_logo_center_404ad070a4.png",
+              "hash": "small_ema_logo_center_404ad070a4",
+              "mime": "image/png",
+              "name": "small_ema-logo-center.png",
+              "path": null,
+              "size": 75.82,
+              "width": 500,
+              "height": 499,
+              "sizeInBytes": 75815
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_ema_logo_center_404ad070a4.png",
+              "hash": "thumbnail_ema_logo_center_404ad070a4",
+              "mime": "image/png",
+              "name": "thumbnail_ema-logo-center.png",
+              "path": null,
+              "size": 11.1,
+              "width": 156,
+              "height": 156,
+              "sizeInBytes": 11097
+            }
+          },
+          "hash": "ema_logo_center_404ad070a4",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 31.92,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/ema_logo_center_404ad070a4.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-04-07T12:17:11.721Z",
+          "updatedAt": "2025-04-07T12:17:11.721Z",
+          "documentId": "puraxptmv1y8d4xho4aaxuys",
+          "publishedAt": "2025-10-30T06:16:42.442Z"
+        },
+        "logos": [
+          {
+            "id": 1081,
+            "name": "icon1.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 298,
+            "height": 297,
+            "formats": {
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_icon1_746cd653c0.png",
+                "hash": "thumbnail_icon1_746cd653c0",
+                "mime": "image/png",
+                "name": "thumbnail_icon1.png",
+                "path": null,
+                "size": 6.79,
+                "width": 157,
+                "height": 156,
+                "sizeInBytes": 6785
+              }
+            },
+            "hash": "icon1_746cd653c0",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 3.16,
+            "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/icon1_746cd653c0.png",
+            "previewUrl": null,
+            "provider": "strapi-provider-upload-strapi-cloud",
+            "provider_metadata": null,
+            "createdAt": "2025-04-07T12:17:07.910Z",
+            "updatedAt": "2025-04-07T12:17:07.910Z",
+            "documentId": "tn2i4ravpudxs9niqj9zfr4z",
+            "publishedAt": "2025-10-30T06:16:42.442Z"
+          },
+          {
+            "id": 1083,
+            "name": "icon-2.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 326,
+            "height": 325,
+            "formats": {
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_icon_2_cf4f2f83dd.png",
+                "hash": "thumbnail_icon_2_cf4f2f83dd",
+                "mime": "image/png",
+                "name": "thumbnail_icon-2.png",
+                "path": null,
+                "size": 8.45,
+                "width": 156,
+                "height": 156,
+                "sizeInBytes": 8450
+              }
+            },
+            "hash": "icon_2_cf4f2f83dd",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 4.2,
+            "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/icon_2_cf4f2f83dd.png",
+            "previewUrl": null,
+            "provider": "strapi-provider-upload-strapi-cloud",
+            "provider_metadata": null,
+            "createdAt": "2025-04-07T12:17:08.719Z",
+            "updatedAt": "2025-04-07T12:17:08.719Z",
+            "documentId": "z4yv5tsm89jglpkxk2ufvcv9",
+            "publishedAt": "2025-10-30T06:16:42.442Z"
+          },
+          {
+            "id": 1084,
+            "name": "icon5.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 355,
+            "height": 354,
+            "formats": {
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_icon5_18129ced28.png",
+                "hash": "thumbnail_icon5_18129ced28",
+                "mime": "image/png",
+                "name": "thumbnail_icon5.png",
+                "path": null,
+                "size": 7.91,
+                "width": 156,
+                "height": 156,
+                "sizeInBytes": 7911
+              }
+            },
+            "hash": "icon5_18129ced28",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 3.93,
+            "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/icon5_18129ced28.png",
+            "previewUrl": null,
+            "provider": "strapi-provider-upload-strapi-cloud",
+            "provider_metadata": null,
+            "createdAt": "2025-04-07T12:17:10.116Z",
+            "updatedAt": "2025-04-07T12:17:10.116Z",
+            "documentId": "t7dyyvuk0npb5mtithu9rl00",
+            "publishedAt": "2025-10-30T06:16:42.442Z"
+          },
+          {
+            "id": 1082,
+            "name": "icon8.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 287,
+            "height": 286,
+            "formats": {
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_icon8_7346c561fd.png",
+                "hash": "thumbnail_icon8_7346c561fd",
+                "mime": "image/png",
+                "name": "thumbnail_icon8.png",
+                "path": null,
+                "size": 8.52,
+                "width": 157,
+                "height": 156,
+                "sizeInBytes": 8521
+              }
+            },
+            "hash": "icon8_7346c561fd",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 4.4,
+            "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/icon8_7346c561fd.png",
+            "previewUrl": null,
+            "provider": "strapi-provider-upload-strapi-cloud",
+            "provider_metadata": null,
+            "createdAt": "2025-04-07T12:17:08.703Z",
+            "updatedAt": "2025-04-07T12:17:08.703Z",
+            "documentId": "oyzffeeiu0afh689ywj4ery2",
+            "publishedAt": "2025-10-30T06:16:42.442Z"
+          },
+          {
+            "id": 1078,
+            "name": "icon4.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 326,
+            "height": 325,
+            "formats": {
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_icon4_2903b34352.png",
+                "hash": "thumbnail_icon4_2903b34352",
+                "mime": "image/png",
+                "name": "thumbnail_icon4.png",
+                "path": null,
+                "size": 8.32,
+                "width": 156,
+                "height": 156,
+                "sizeInBytes": 8318
+              }
+            },
+            "hash": "icon4_2903b34352",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 3.51,
+            "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/icon4_2903b34352.png",
+            "previewUrl": null,
+            "provider": "strapi-provider-upload-strapi-cloud",
+            "provider_metadata": null,
+            "createdAt": "2025-04-07T12:17:03.823Z",
+            "updatedAt": "2025-04-07T12:17:03.823Z",
+            "documentId": "a9fpiqv5hs4srt806qmw1rd5",
+            "publishedAt": "2025-10-30T06:16:42.442Z"
+          },
+          {
+            "id": 1079,
+            "name": "icon7.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 294,
+            "height": 293,
+            "formats": {
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_icon7_1a81f51075.png",
+                "hash": "thumbnail_icon7_1a81f51075",
+                "mime": "image/png",
+                "name": "thumbnail_icon7.png",
+                "path": null,
+                "size": 7.19,
+                "width": 157,
+                "height": 156,
+                "sizeInBytes": 7187
+              }
+            },
+            "hash": "icon7_1a81f51075",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 3.42,
+            "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/icon7_1a81f51075.png",
+            "previewUrl": null,
+            "provider": "strapi-provider-upload-strapi-cloud",
+            "provider_metadata": null,
+            "createdAt": "2025-04-07T12:17:04.921Z",
+            "updatedAt": "2025-04-07T12:17:04.921Z",
+            "documentId": "qtpp49jkxvsmigvyif87lf4h",
+            "publishedAt": "2025-10-30T06:16:42.442Z"
+          },
+          {
+            "id": 1080,
+            "name": "icon6.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 361,
+            "height": 361,
+            "formats": {
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_icon6_402ae82891.png",
+                "hash": "thumbnail_icon6_402ae82891",
+                "mime": "image/png",
+                "name": "thumbnail_icon6.png",
+                "path": null,
+                "size": 7.65,
+                "width": 156,
+                "height": 156,
+                "sizeInBytes": 7648
+              }
+            },
+            "hash": "icon6_402ae82891",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 4.62,
+            "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/icon6_402ae82891.png",
+            "previewUrl": null,
+            "provider": "strapi-provider-upload-strapi-cloud",
+            "provider_metadata": null,
+            "createdAt": "2025-04-07T12:17:07.906Z",
+            "updatedAt": "2025-04-07T12:17:07.906Z",
+            "documentId": "eek7qa7c7k2bhjec5z2pyk17",
+            "publishedAt": "2025-10-30T06:16:42.442Z"
+          },
+          {
+            "id": 1086,
+            "name": "icon-3.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 298,
+            "height": 297,
+            "formats": {
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_icon_3_e9ca11f01c.png",
+                "hash": "thumbnail_icon_3_e9ca11f01c",
+                "mime": "image/png",
+                "name": "thumbnail_icon-3.png",
+                "path": null,
+                "size": 8.18,
+                "width": 157,
+                "height": 156,
+                "sizeInBytes": 8180
+              }
+            },
+            "hash": "icon_3_e9ca11f01c",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 3.33,
+            "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/icon_3_e9ca11f01c.png",
+            "previewUrl": null,
+            "provider": "strapi-provider-upload-strapi-cloud",
+            "provider_metadata": null,
+            "createdAt": "2025-04-07T12:17:13.104Z",
+            "updatedAt": "2025-04-07T12:17:13.104Z",
+            "documentId": "krwobktetw385j63p0014950",
+            "publishedAt": "2025-10-30T06:16:42.442Z"
+          }
+        ]
+      },
+      "cxSuccessStories": [
+        {
+          "id": 41,
+          "title": "Success Stories",
+          "subtitle": null,
+          "successStoriesStatList": [
+            {
+              "id": 78,
+              "challengeID": "1",
+              "role": "Head of Customer Experience",
+              "name": "Venkatraman Narayan",
+              "companyName": "How Moneyview Utilizes AI-Powered Customer Support by Ema for Unmatched Service and Efficiency",
+              "value": null,
+              "description": null,
+              "color": null,
+              "stat1Title": null,
+              "stat2Title": null,
+              "stat1SubTitle": null,
+              "stat2SubTitle": null,
+              "image": null
+            },
+            {
+              "id": 79,
+              "challengeID": "2",
+              "role": "CTO, Envoy Global and President, Envoy India",
+              "name": "Mahi R. Inampudi",
+              "companyName": "How Envoy Global  Utilizes AI-Powered Customer Support by Ema for Unmatched Service and Efficiency",
+              "value": null,
+              "description": null,
+              "color": null,
+              "stat1Title": null,
+              "stat2Title": null,
+              "stat1SubTitle": null,
+              "stat2SubTitle": null,
+              "image": null
+            }
+          ],
+          "challenge": [
+            {
+              "id": 63,
+              "title": null,
+              "description": "Ema has been a game-changer for us. With her unparalleled accuracy and efficiency, she has enhanced our overall approach to customer support.",
+              "challengeID": "1",
+              "cta": "SEE CASE STUDY",
+              "ctaLink": "https://www.ema.co/resources/customer/how-moneyview-uses-ema",
+              "badge": null
+            },
+            {
+              "id": 64,
+              "title": null,
+              "description": "Having explored numerous tools, I can confidently say that Ema's approach surpasses anything seen before, setting a new standard for efficient and effective customer support.",
+              "challengeID": "2",
+              "cta": "SEE CASE STUDY",
+              "ctaLink": "https://www.ema.co/resources/customer/envoy-global-leverages-ema",
+              "badge": null
+            }
+          ]
+        }
+      ],
+      "cxFaq": [
+        {
+          "id": 764,
+          "description": "AI can be used for customer service in many ways to enhance efficiency and effectiveness, transforming the team's productivity and customer satisfaction. AI employees like Ema use natural conversation and can take action across various platforms, bringing consistency and seamless interactions to CX. Ema handles end-to-end customer experience by managing complex workflows across hundreds of applications, emulating the performance of the best human agents, and eliminating the need for extensive tool maintenance.\n",
+          "title": "How can AI be used for customer support?"
+        },
+        {
+          "id": 765,
+          "description": "Generative AI for customer experience uses advanced machine learning approaches and large language models to generate human-like responses tailored to customer inquiries. GenAI tools understand complex questions and can provide detailed, relevant answers, much like a human agent would. By continuously learning from top-performing agents, Ema emulates their tone and style, ensuring a seamless and personalized customer experience. You can give custom instructions to Ema to fine-tune responses or actions for specific customer support tasks.\n",
+          "title": "What is generative AI for customer support?"
+        },
+        {
+          "id": 766,
+          "description": "AI has the potential to completely transform the way we think about customer experience however it is not a complete replacement for human agents. AI can handle routine and repetitive tasks, allowing human agents to focus on more complex and sensitive issues that require a personal touch. For instance, Ema can resolve over 85% of customer queries on her own, but she also knows when to escalate issues to human agents, especially those involving fraud, security, and compliance. The combination of AI and human agents can lead to a more efficient and effective customer experience system.\n",
+          "title": "Can AI replace customer support?"
+        },
+        {
+          "id": 767,
+          "description": "The future of AI in customer service is exceptionally promising, with tools evolving from simple chat assistants to autonomously resolving complex L2, L3 tickets traditionally handled by humans. As AI continues to learn and adapt, it will become increasingly adept at understanding and predicting customer needs, leading to more proactive and efficient experience. The synergy between AI and human agents will become more refined, resulting in a superior customer service experience. AI will empower companies to offer faster, more conversational, and highly personalized interactions with their customers. Ema is at the forefront of this endeavor, delivering AI that is exceptionally accurate, cross-functional, and contextually aware, empowering companies to offer faster, more conversational, and highly personalized interactions with their customers.\n",
+          "title": "What does the future of AI in customer support look like?"
+        },
+        {
+          "id": 768,
+          "description": "At its core, AI-first customer support prioritizes using AI to resolve customer issues directly. If AI cannot fully address the problem or has been instructed to abstain from specific questions, it then assists human agents in finding a solution. This approach results in better, faster, and more cost-effective customer service. Ema is an autonomous agent that handles end-to-end customer experience freeing up your team to focus on higher-impact work and bring the best experience to your customers. In just a couple hours of setup, Ema can autonomously resolve over 85% of the tickets, at an accuracy higher than average human agents, and continues to learn with human feedback.\n",
+          "title": "What is AI-first customer support?"
+        }
+      ],
+      "agenticAISectoinCxExperiencePage": {
+        "id": 10,
+        "title": "Experience the true potential of Agentic AI",
+        "imageText": "80% Reduction in Support Operation Cost",
+        "buttonText": "Hire Ema",
+        "buttonLink": "https://www.ema.co/hire-customer-support-assistant",
+        "points": [
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Hours, not days to start ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Above human accuracy ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Constantly improves",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Layers of data protection",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Industry-leading compliance",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "image": {
+          "id": 1101,
+          "name": "agi-bg-1.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 4264,
+          "height": 2200,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/large_agi_bg_1_37f5fa079c.png",
+              "hash": "large_agi_bg_1_37f5fa079c",
+              "mime": "image/png",
+              "name": "large_agi-bg-1.png",
+              "path": null,
+              "size": 77.55,
+              "width": 1000,
+              "height": 516,
+              "sizeInBytes": 77552
+            },
+            "small": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_agi_bg_1_37f5fa079c.png",
+              "hash": "small_agi_bg_1_37f5fa079c",
+              "mime": "image/png",
+              "name": "small_agi-bg-1.png",
+              "path": null,
+              "size": 25.29,
+              "width": 500,
+              "height": 258,
+              "sizeInBytes": 25288
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/medium_agi_bg_1_37f5fa079c.png",
+              "hash": "medium_agi_bg_1_37f5fa079c",
+              "mime": "image/png",
+              "name": "medium_agi-bg-1.png",
+              "path": null,
+              "size": 47.15,
+              "width": 750,
+              "height": 387,
+              "sizeInBytes": 47153
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_agi_bg_1_37f5fa079c.png",
+              "hash": "thumbnail_agi_bg_1_37f5fa079c",
+              "mime": "image/png",
+              "name": "thumbnail_agi-bg-1.png",
+              "path": null,
+              "size": 9.11,
+              "width": 245,
+              "height": 126,
+              "sizeInBytes": 9109
+            }
+          },
+          "hash": "agi_bg_1_37f5fa079c",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 254.48,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/agi_bg_1_37f5fa079c.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-04-08T13:42:44.438Z",
+          "updatedAt": "2025-04-08T13:42:44.438Z",
+          "documentId": "w07i8ce9phnyc8ogbft35jbg",
+          "publishedAt": "2025-10-30T06:16:42.442Z",
+          "related": [
+            {
+              "__type": "agentic-ai-sectoin-cx-experience-page.agentic-ai-sectoin-cx-experience-page",
+              "id": 2,
+              "title": "Experience the true potential of Agentic AI",
+              "imageText": "80% Reduction in Support Operation Cost",
+              "buttonText": "Hire Ema",
+              "buttonLink": "https://www.ema.co/hire-customer-support-assistant",
+              "points": [
+                {
+                  "type": "list",
+                  "format": "unordered",
+                  "children": [
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "Hours, not days to start ",
+                          "type": "text"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "Above human accuracy ",
+                          "type": "text"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "Constantly improves",
+                          "type": "text"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "Layers of data protection",
+                          "type": "text"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "Industry-leading compliance",
+                          "type": "text"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "__type": "agentic-ai-sectoin-cx-experience-page.agentic-ai-sectoin-cx-experience-page",
+              "id": 10,
+              "title": "Experience the true potential of Agentic AI",
+              "imageText": "80% Reduction in Support Operation Cost",
+              "buttonText": "Hire Ema",
+              "buttonLink": "https://www.ema.co/hire-customer-support-assistant",
+              "points": [
+                {
+                  "type": "list",
+                  "format": "unordered",
+                  "children": [
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "Hours, not days to start ",
+                          "type": "text"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "Above human accuracy ",
+                          "type": "text"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "Constantly improves",
+                          "type": "text"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "Layers of data protection",
+                          "type": "text"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "Industry-leading compliance",
+                          "type": "text"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "imageMobile": {
+          "id": 1095,
+          "name": "bg-more-ag.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1103,
+          "height": 2047,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/large_bg_more_ag_b044d9eda8.png",
+              "hash": "large_bg_more_ag_b044d9eda8",
+              "mime": "image/png",
+              "name": "large_bg-more-ag.png",
+              "path": null,
+              "size": 75.34,
+              "width": 539,
+              "height": 1000,
+              "sizeInBytes": 75343
+            },
+            "small": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/small_bg_more_ag_b044d9eda8.png",
+              "hash": "small_bg_more_ag_b044d9eda8",
+              "mime": "image/png",
+              "name": "small_bg-more-ag.png",
+              "path": null,
+              "size": 25.65,
+              "width": 269,
+              "height": 500,
+              "sizeInBytes": 25652
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/medium_bg_more_ag_b044d9eda8.png",
+              "hash": "medium_bg_more_ag_b044d9eda8",
+              "mime": "image/png",
+              "name": "medium_bg-more-ag.png",
+              "path": null,
+              "size": 46.52,
+              "width": 404,
+              "height": 750,
+              "sizeInBytes": 46522
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/thumbnail_bg_more_ag_b044d9eda8.png",
+              "hash": "thumbnail_bg_more_ag_b044d9eda8",
+              "mime": "image/png",
+              "name": "thumbnail_bg-more-ag.png",
+              "path": null,
+              "size": 4.97,
+              "width": 84,
+              "height": 156,
+              "sizeInBytes": 4974
+            }
+          },
+          "hash": "bg_more_ag_b044d9eda8",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 50.38,
+          "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/bg_more_ag_b044d9eda8.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-04-07T12:41:59.969Z",
+          "updatedAt": "2025-04-07T12:41:59.969Z",
+          "documentId": "k1j5taxphsum2z20y5fs1w0p",
+          "publishedAt": "2025-10-30T06:16:42.442Z",
+          "related": [
+            {
+              "__type": "agentic-ai-sectoin-cx-experience-page.agentic-ai-sectoin-cx-experience-page",
+              "id": 2,
+              "title": "Experience the true potential of Agentic AI",
+              "imageText": "80% Reduction in Support Operation Cost",
+              "buttonText": "Hire Ema",
+              "buttonLink": "https://www.ema.co/hire-customer-support-assistant",
+              "points": [
+                {
+                  "type": "list",
+                  "format": "unordered",
+                  "children": [
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "Hours, not days to start ",
+                          "type": "text"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "Above human accuracy ",
+                          "type": "text"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "Constantly improves",
+                          "type": "text"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "Layers of data protection",
+                          "type": "text"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "Industry-leading compliance",
+                          "type": "text"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "__type": "agentic-ai-sectoin-cx-experience-page.agentic-ai-sectoin-cx-experience-page",
+              "id": 10,
+              "title": "Experience the true potential of Agentic AI",
+              "imageText": "80% Reduction in Support Operation Cost",
+              "buttonText": "Hire Ema",
+              "buttonLink": "https://www.ema.co/hire-customer-support-assistant",
+              "points": [
+                {
+                  "type": "list",
+                  "format": "unordered",
+                  "children": [
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "Hours, not days to start ",
+                          "type": "text"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "Above human accuracy ",
+                          "type": "text"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "Constantly improves",
+                          "type": "text"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "Layers of data protection",
+                          "type": "text"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list-item",
+                      "children": [
+                        {
+                          "text": "Industry-leading compliance",
+                          "type": "text"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "cxStats": [
+          {
+            "id": 28,
+            "title": "Simple & Fast",
+            "iconUrl": [
+              {
+                "id": 1076,
+                "name": "icon-ag-ai.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 118,
+                "height": 118,
+                "formats": null,
+                "hash": "icon_ag_ai_b7963338c4",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 1.61,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/icon_ag_ai_b7963338c4.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-04-07T12:17:00.720Z",
+                "updatedAt": "2025-04-07T12:17:00.720Z",
+                "documentId": "w72x19ncg2j0ztgvy6ry27ha",
+                "publishedAt": "2025-10-30T06:16:42.442Z",
+                "related": [
+                  {
+                    "__type": "cx-stats.cx-stats",
+                    "id": 4,
+                    "title": "Simple & Fast"
+                  },
+                  {
+                    "__type": "cx-stats.cx-stats",
+                    "id": 28,
+                    "title": "Simple & Fast"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "title": "Accurate",
+            "iconUrl": [
+              {
+                "id": 1075,
+                "name": "icon-ag-ai-2.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 109,
+                "height": 133,
+                "formats": null,
+                "hash": "icon_ag_ai_2_3661fb32ba",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 1.2,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/icon_ag_ai_2_3661fb32ba.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-04-07T12:16:54.670Z",
+                "updatedAt": "2025-04-07T12:16:54.670Z",
+                "documentId": "u7mx6z561exblgom1yibng1o",
+                "publishedAt": "2025-10-30T06:16:42.442Z",
+                "related": [
+                  {
+                    "__type": "cx-stats.cx-stats",
+                    "id": 5,
+                    "title": "Accurate"
+                  },
+                  {
+                    "__type": "cx-stats.cx-stats",
+                    "id": 29,
+                    "title": "Accurate"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 30,
+            "title": "Trusted",
+            "iconUrl": [
+              {
+                "id": 1077,
+                "name": "icon-ag-ai-3.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 107,
+                "height": 111,
+                "formats": null,
+                "hash": "icon_ag_ai_3_bcd195caab",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.54,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/icon_ag_ai_3_bcd195caab.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-04-07T12:17:03.211Z",
+                "updatedAt": "2025-04-07T12:17:03.211Z",
+                "documentId": "ephuzkpv4oonec3nytz04f91",
+                "publishedAt": "2025-10-30T06:16:42.442Z",
+                "related": [
+                  {
+                    "__type": "cx-stats.cx-stats",
+                    "id": 6,
+                    "title": "Trusted"
+                  },
+                  {
+                    "__type": "cx-stats.cx-stats",
+                    "id": 30,
+                    "title": "Trusted"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "cxHireEma": {
+        "id": 127,
+        "title": null,
+        "description": "Turn customer experience into your competitive edge",
+        "buttonLink": "https://www.ema.co/hire-customer-support-assistant",
+        "buttonText": "Hire Ema Today",
+        "imageText": "Reimagine the future of CX"
+      }
+    },
+    "footerData": {
+      "id": 35,
+      "addressLine2": "Mountain View, CA 94041",
+      "addressLine1": "321 Castro St\n",
+      "createdAt": "2024-09-10T09:20:43.371Z",
+      "updatedAt": "2026-03-22T10:55:47.028Z",
+      "publishedAt": "2026-03-22T10:55:48.075Z",
+      "emaNumber": null,
+      "logoText": null,
+      "documentId": "onfjm81qca9cq4amsadztm0n",
+      "productSection": null,
+      "solutions": {
+        "id": 104,
+        "title": "Solutions",
+        "redirectLink": "https://www.ema.co/personas",
+        "listValue": [
+          {
+            "id": 570,
+            "value": "Customer Support",
+            "link": "https://www.ema.co/customer-support"
+          },
+          {
+            "id": 571,
+            "value": "Data Professional",
+            "link": "https://www.ema.co//personas#Data-Professional"
+          },
+          {
+            "id": 572,
+            "value": "Employee Assistant",
+            "link": "https://www.ema.co/personas#Employee-Assistant"
+          },
+          {
+            "id": 573,
+            "value": "Pharmacist Assistant",
+            "link": "https://www.ema.co/personas#Pharmacist-Assistant"
+          },
+          {
+            "id": 574,
+            "value": "Proposal Manager",
+            "link": "https://www.ema.co/personas#Proposal-Manager"
+          },
+          {
+            "id": 575,
+            "value": "Compliance Analyst",
+            "link": "https://www.ema.co/personas#Compliance-Analyst"
+          },
+          {
+            "id": 576,
+            "value": "FAQs",
+            "link": "https://support.ema.co/"
+          },
+          {
+            "id": 577,
+            "value": "Partners",
+            "link": "https://www.ema.co/partners"
+          },
+          {
+            "id": 578,
+            "value": "Integrations",
+            "link": "https://www.ema.co/integrations"
+          },
+          {
+            "id": 579,
+            "value": "Intelligent Actions",
+            "link": "https://www.ema.co/intelligent-actions"
+          }
+        ]
+      },
+      "resources": {
+        "id": 105,
+        "title": "Resources",
+        "redirectLink": "https://www.ema.co/resources",
+        "listValue": [
+          {
+            "id": 580,
+            "value": "Blogs",
+            "link": "https://www.ema.co/blog"
+          },
+          {
+            "id": 581,
+            "value": "Customers",
+            "link": "https://www.ema.co/resources#customer"
+          },
+          {
+            "id": 582,
+            "value": "Videos",
+            "link": "https://www.ema.co/resources#videos"
+          }
+        ]
+      },
+      "company": {
+        "id": 106,
+        "title": "Company",
+        "redirectLink": "https://www.ema.co/about-us",
+        "listValue": [
+          {
+            "id": 583,
+            "value": "About",
+            "link": "https://www.ema.co/about-us"
+          },
+          {
+            "id": 584,
+            "value": "Join the Team",
+            "link": "https://www.ema.co/careers"
+          },
+          {
+            "id": 585,
+            "value": "News",
+            "link": "https://www.ema.co/news"
+          },
+          {
+            "id": 586,
+            "value": "Our Advisors",
+            "link": "https://www.ema.co/advisors"
+          }
+        ]
+      },
+      "headerContent": [
+        {
+          "id": 136,
+          "title": "Products",
+          "redirect": null,
+          "isOpen": true
+        },
+        {
+          "id": 137,
+          "title": "Solutions",
+          "redirect": "https://www.ema.co/solutions",
+          "isOpen": true
+        },
+        {
+          "id": 138,
+          "title": "Resources",
+          "redirect": "https://www.ema.co/resources",
+          "isOpen": true
+        },
+        {
+          "id": 139,
+          "title": "Company",
+          "redirect": "https://www.ema.co/about-us",
+          "isOpen": true
+        }
+      ],
+      "subNavContent": [
+        {
+          "id": 311,
+          "title": "By Department",
+          "isComingSoon": false,
+          "link": null,
+          "customClass": null,
+          "subType": "Solutions",
+          "subPoints": [
+            {
+              "id": 1000,
+              "name": "Employee Experience ",
+              "redirectLink": "https://www.ema.co/employee-experience",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 945,
+                "name": "ex.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "ex_c60a258ead",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.75,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/ex_c60a258ead.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:34:18.055Z",
+                "updatedAt": "2025-03-24T14:34:18.055Z",
+                "documentId": "t72f5p08noyaoh1u2tzqn12n",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1001,
+              "name": "Customer Experience",
+              "redirectLink": "https://www.ema.co/customer-experience",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 947,
+                "name": "cx.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "cx_aaebeb9c8a",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.54,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/cx_aaebeb9c8a.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:34:18.182Z",
+                "updatedAt": "2025-03-24T14:34:18.182Z",
+                "documentId": "cby7er0dndy2pmdi8vvyiw5s",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1002,
+              "name": "Finance Operations",
+              "redirectLink": "https://www.ema.co/finops",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 2044,
+                "name": "Group 2147227958.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 96,
+                "height": 96,
+                "formats": null,
+                "hash": "Group_2147227958_7df72e1c96",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.85,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/Group_2147227958_7df72e1c96.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2026-02-25T09:26:41.944Z",
+                "updatedAt": "2026-02-25T09:26:41.944Z",
+                "documentId": "yiw3981ayosjrarsvhb33lym",
+                "publishedAt": "2026-02-25T09:26:41.945Z"
+              }
+            },
+            {
+              "id": 1003,
+              "name": "Sales and Marketing",
+              "redirectLink": "https://www.ema.co/sales-marketing",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 948,
+                "name": "sale.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "sale_9fecb5d6dc",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.45,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/sale_9fecb5d6dc.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:34:18.223Z",
+                "updatedAt": "2025-03-24T14:34:18.223Z",
+                "documentId": "iixhpfuhre4mxagt1d9jn0cp",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 312,
+          "title": "By Industry",
+          "isComingSoon": false,
+          "link": null,
+          "customClass": null,
+          "subType": "Solutions",
+          "subPoints": [
+            {
+              "id": 1004,
+              "name": "Healthcare",
+              "redirectLink": "https://www.ema.co/health-care",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 938,
+                "name": "health.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "health_f843ecdd97",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.77,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/health_f843ecdd97.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:34:15.953Z",
+                "updatedAt": "2025-03-24T14:34:15.953Z",
+                "documentId": "re8pt9hwilawdybdnyxlqa8c",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1005,
+              "name": "Insurance",
+              "redirectLink": "https://www.ema.co/insurance",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 940,
+                "name": "insurance.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "insurance_6abd847da0",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.56,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/insurance_6abd847da0.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:34:17.244Z",
+                "updatedAt": "2025-03-24T14:34:17.244Z",
+                "documentId": "yjeosqu7tol0f0h6rj7q6nxw",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1006,
+              "name": "Professional Services ",
+              "redirectLink": "https://www.ema.co/professional-services",
+              "isComingSoon": false,
+              "subtitle": null,
+              "logo": {
+                "id": 964,
+                "name": "profe-service.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "profe_service_d91d19fb8f",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.44,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/profe_service_d91d19fb8f.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T15:01:57.624Z",
+                "updatedAt": "2025-03-25T15:01:57.624Z",
+                "documentId": "ya3wjjv1vzu970o6m6otpup2",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 313,
+          "title": "Build an AI Employee",
+          "isComingSoon": false,
+          "link": null,
+          "customClass": null,
+          "subType": "Products",
+          "subPoints": [
+            {
+              "id": 1007,
+              "name": "AI Employee Builder",
+              "redirectLink": "https://www.ema.co/ai-employee-builder",
+              "isComingSoon": null,
+              "subtitle": "Build multi-agent workflows",
+              "logo": {
+                "id": 1862,
+                "name": "as.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 150,
+                "height": 150,
+                "formats": null,
+                "hash": "as_ac4496b2c6",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 1.17,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/as_ac4496b2c6.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-10-07T14:16:16.946Z",
+                "updatedAt": "2025-10-07T14:16:16.946Z",
+                "documentId": "ljrnn3dagdbzq71gponkxyit",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1008,
+              "name": "Pre-built AI Agents",
+              "redirectLink": "https://www.ema.co/agent-library",
+              "isComingSoon": false,
+              "subtitle": "100s of pre-built AI agents",
+              "logo": {
+                "id": 952,
+                "name": "agent.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "agent_9d0df556c7",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.58,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/agent_9d0df556c7.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:44:55.584Z",
+                "updatedAt": "2025-03-24T14:44:55.584Z",
+                "documentId": "bf4d855lt25cv1vqlo7ozoef",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1009,
+              "name": "Generative Workflow Engine",
+              "redirectLink": "https://www.ema.co/gwe-generative-workflow-engine",
+              "isComingSoon": false,
+              "subtitle": "Build AI Employees 10x faster",
+              "logo": {
+                "id": 956,
+                "name": "gwe.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "gwe_05db271c61",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.75,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/gwe_05db271c61.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:55:55.552Z",
+                "updatedAt": "2025-03-24T14:56:42.488Z",
+                "documentId": "evwqfri2ymo9vg35nqh2fg6s",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1010,
+              "name": "EmaFusion™",
+              "redirectLink": "https://www.ema.co/emafusion",
+              "isComingSoon": null,
+              "subtitle": "Harness the power of 100+ LLMs",
+              "logo": {
+                "id": 934,
+                "name": "Fusion.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "Fusion_cf71a5c221",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 1.19,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/Fusion_cf71a5c221.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-21T11:05:31.713Z",
+                "updatedAt": "2025-03-21T11:05:31.713Z",
+                "documentId": "nscpze8adt5si4hlikgxykaz",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 314,
+          "title": "Hire an AI Employee",
+          "isComingSoon": false,
+          "link": null,
+          "customClass": null,
+          "subType": "Products",
+          "subPoints": [
+            {
+              "id": 1011,
+              "name": "Explore Pre-built AI Employees",
+              "redirectLink": "https://www.ema.co/ai-employees",
+              "isComingSoon": false,
+              "subtitle": "Pre-built solutions for faster impact",
+              "logo": {
+                "id": 957,
+                "name": "all-employee.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "all_employee_62174e093d",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 1.02,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/all_employee_62174e093d.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T15:12:26.948Z",
+                "updatedAt": "2025-03-24T15:12:26.948Z",
+                "documentId": "g85cmgzmog2kdvppkh9z9jjp",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1012,
+              "name": "Document Intelligence ",
+              "redirectLink": "https://www.ema.co/document-analytics",
+              "isComingSoon": false,
+              "subtitle": "Transform data into decisions  ",
+              "logo": {
+                "id": 953,
+                "name": "doc-inte.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "doc_inte_61a159334b",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.76,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/doc_inte_61a159334b.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:55:54.538Z",
+                "updatedAt": "2025-03-24T14:55:54.538Z",
+                "documentId": "c8js80yo9iqtn1xst7f1ofcq",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1013,
+              "name": "Document Generation",
+              "redirectLink": "https://www.ema.co/doc-gen\n",
+              "isComingSoon": null,
+              "subtitle": "Create quality business docs faster ",
+              "logo": {
+                "id": 954,
+                "name": "doc-gen.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "doc_gen_758480a5f8",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.89,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/doc_gen_758480a5f8.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:55:54.854Z",
+                "updatedAt": "2025-03-24T14:55:54.854Z",
+                "documentId": "y068xfno0npicf71dhcdi49i",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1014,
+              "name": "Knowledge Insights",
+              "redirectLink": "https://www.ema.co/knowledge-insights",
+              "isComingSoon": false,
+              "subtitle": "Turn data to insights in seconds",
+              "logo": {
+                "id": 949,
+                "name": "know-in.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "know_in_18166b1bae",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.52,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/know_in_18166b1bae.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:34:18.236Z",
+                "updatedAt": "2025-03-24T14:34:18.236Z",
+                "documentId": "u2xkk0fmpl0rkr1wovwlmvp1",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1015,
+              "name": "Voice AI Employee",
+              "redirectLink": "https://www.ema.co/voice-ai-employee",
+              "isComingSoon": null,
+              "subtitle": "Conversations that deliver results",
+              "logo": {
+                "id": 1986,
+                "name": "audio-lines.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 150,
+                "height": 150,
+                "formats": null,
+                "hash": "audio_lines_21709cd4fc",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.45,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/audio_lines_21709cd4fc.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2026-01-13T09:51:13.134Z",
+                "updatedAt": "2026-01-13T09:51:13.134Z",
+                "documentId": "jjec3fkydgq8qjmdoodhu2tr",
+                "publishedAt": "2026-01-13T09:51:13.134Z"
+              }
+            },
+            {
+              "id": 1016,
+              "name": "App Navigator ",
+              "redirectLink": "https://www.ema.co/app-navigator",
+              "isComingSoon": null,
+              "subtitle": "Automate work anywhere",
+              "logo": {
+                "id": 2057,
+                "name": "hh.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 150,
+                "height": 150,
+                "formats": null,
+                "hash": "hh_b262532cf3",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.81,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/hh_b262532cf3.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2026-02-26T14:00:38.301Z",
+                "updatedAt": "2026-02-26T14:00:38.301Z",
+                "documentId": "iko9pmh2cs0nwagj6bmzsw38",
+                "publishedAt": "2026-02-26T14:00:38.301Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 315,
+          "title": "Trust & Security",
+          "isComingSoon": false,
+          "link": null,
+          "customClass": null,
+          "subType": "Products",
+          "subPoints": [
+            {
+              "id": 1017,
+              "name": "Trust and Security",
+              "redirectLink": "https://www.ema.co/trust-and-security",
+              "isComingSoon": false,
+              "subtitle": "Industry leading AI compliance",
+              "logo": {
+                "id": 951,
+                "name": "Trust.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 151,
+                "height": 151,
+                "formats": null,
+                "hash": "Trust_948de66603",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.45,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/Trust_948de66603.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-24T14:34:18.270Z",
+                "updatedAt": "2025-03-24T14:57:43.759Z",
+                "documentId": "xn8axfg8qf9vty6pccno7fno",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 316,
+          "title": "Explore",
+          "isComingSoon": null,
+          "link": null,
+          "customClass": null,
+          "subType": "Resources",
+          "subPoints": [
+            {
+              "id": 1018,
+              "name": "Blogs",
+              "redirectLink": "https://www.ema.co/blog",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 958,
+                "name": "blog-icon.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "blog_icon_55ed6faafe",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.34,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/blog_icon_55ed6faafe.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T14:45:28.449Z",
+                "updatedAt": "2025-03-25T14:45:28.449Z",
+                "documentId": "zh7fvjynt5w32gn0wqula15t",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1019,
+              "name": "Newsletter",
+              "redirectLink": "https://www.linkedin.com/newsletters/7284513593637707776/",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 959,
+                "name": "news-icon.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "news_icon_34484ab6cf",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.38,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/news_icon_34484ab6cf.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T14:46:17.836Z",
+                "updatedAt": "2025-03-25T14:46:17.836Z",
+                "documentId": "q2y0vwy216m38ujhmt0ps4qr",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1020,
+              "name": "Videos",
+              "redirectLink": "https://www.ema.co/resources#videos",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 960,
+                "name": "videos.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "videos_9e89bfbe21",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.68,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/videos_9e89bfbe21.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T14:47:01.187Z",
+                "updatedAt": "2025-03-25T14:47:01.187Z",
+                "documentId": "qkoxj7kmur5khr2zo2q5g13p",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1021,
+              "name": "Customer Stories",
+              "redirectLink": "https://www.ema.co/resources#customer",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 961,
+                "name": "customer.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "customer_7e9e3aa3cb",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.52,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/customer_7e9e3aa3cb.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T14:48:12.081Z",
+                "updatedAt": "2025-03-25T14:48:12.081Z",
+                "documentId": "f894yt1aq8c98k9ab2v9rsga",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1022,
+              "name": "Whitepapers",
+              "redirectLink": "https://www.ema.co/resources#whitePaper",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 963,
+                "name": "white.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "white_8fb1184a00",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.43,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/white_8fb1184a00.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T14:49:37.156Z",
+                "updatedAt": "2025-03-25T14:49:37.156Z",
+                "documentId": "ak15f7h8kinheuxjx3zf31ae",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 317,
+          "title": "Support",
+          "isComingSoon": null,
+          "link": null,
+          "customClass": null,
+          "subType": "Resources",
+          "subPoints": [
+            {
+              "id": 1023,
+              "name": "Ema Builder Docs",
+              "redirectLink": "https://builder.ema.co/",
+              "isComingSoon": false,
+              "subtitle": null,
+              "logo": {
+                "id": 965,
+                "name": "dev-doc.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "dev_doc_8418d2cb6d",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.5,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/dev_doc_8418d2cb6d.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T15:28:34.535Z",
+                "updatedAt": "2025-03-25T15:28:34.535Z",
+                "documentId": "y7016dwa0daxpirnm8dnzb8o",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1024,
+              "name": "Get Help",
+              "redirectLink": "https://support.ema.co/",
+              "isComingSoon": false,
+              "subtitle": null,
+              "logo": {
+                "id": 966,
+                "name": "get-help.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "get_help_6e8d3e5da1",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.73,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/get_help_6e8d3e5da1.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T15:28:34.847Z",
+                "updatedAt": "2025-03-25T15:28:34.847Z",
+                "documentId": "vjog4yrc27nyvr4q4s09ed8u",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 318,
+          "title": null,
+          "isComingSoon": null,
+          "link": null,
+          "customClass": null,
+          "subType": "Company",
+          "subPoints": [
+            {
+              "id": 1025,
+              "name": "About",
+              "redirectLink": "https://www.ema.co/about-us",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 967,
+                "name": "about.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "about_c0fa61d7fd",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.47,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/about_c0fa61d7fd.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T15:36:31.369Z",
+                "updatedAt": "2025-03-25T15:36:31.369Z",
+                "documentId": "x198f904b4k2m2fvbvc2bhm7",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1026,
+              "name": "Join the Team",
+              "redirectLink": "https://www.ema.co/careers",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 970,
+                "name": "join-1.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "join_1_0afe2223a3",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.56,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/join_1_0afe2223a3.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T15:37:37.826Z",
+                "updatedAt": "2025-03-25T15:37:37.826Z",
+                "documentId": "qfn8zvea68nx29o7ceyz2fpd",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1027,
+              "name": "News",
+              "redirectLink": "https://www.ema.co/news",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 971,
+                "name": "news-c.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "news_c_e4c5a619f1",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.48,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/news_c_e4c5a619f1.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T15:38:56.658Z",
+                "updatedAt": "2025-03-25T15:38:56.658Z",
+                "documentId": "oslmpooq9xae3i7wug6a2duw",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            },
+            {
+              "id": 1028,
+              "name": "Our Advisors",
+              "redirectLink": "https://www.ema.co/advisors",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 972,
+                "name": "adv.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 97,
+                "height": 97,
+                "formats": null,
+                "hash": "adv_6a850f1d7b",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 1.03,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/adv_6a850f1d7b.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2025-03-25T15:39:19.648Z",
+                "updatedAt": "2025-03-25T15:39:19.648Z",
+                "documentId": "ypsn6zsr0xo2vlarkz3s9h9t",
+                "publishedAt": "2025-10-30T06:16:42.442Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 319,
+          "title": "Ema Academy",
+          "isComingSoon": null,
+          "link": null,
+          "customClass": null,
+          "subType": "Resources",
+          "subPoints": [
+            {
+              "id": 1029,
+              "name": "Builder Academy",
+              "redirectLink": "https://www.ema.co/academy",
+              "isComingSoon": null,
+              "subtitle": null,
+              "logo": {
+                "id": 2017,
+                "name": "Group 2147226983 (3).png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 96,
+                "height": 96,
+                "formats": null,
+                "hash": "Group_2147226983_3_d9c8ef88e3",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 0.72,
+                "url": "https://heroic-chocolate-319b05815e.media.strapiapp.com/Group_2147226983_3_d9c8ef88e3.png",
+                "previewUrl": null,
+                "provider": "strapi-provider-upload-strapi-cloud",
+                "provider_metadata": null,
+                "createdAt": "2026-02-11T07:38:35.584Z",
+                "updatedAt": "2026-02-11T07:38:35.584Z",
+                "documentId": "lgvr0rzdgkydocfit7z6fver",
+                "publishedAt": "2026-02-11T07:38:35.584Z"
+              }
+            }
+          ]
+        }
+      ],
+      "topBanner": {
+        "id": 34,
+        "title": "Explore the new voice of enterprise automation",
+        "link": "https://www.ema.co/voice-ai-employee",
+        "showBanner": false,
+        "btnText": "Try now",
+        "pagesToHide": [
+          {
+            "id": 65,
+            "url": "/builder",
+            "paegType": null
+          },
+          {
+            "id": 66,
+            "url": "/voice-ai-employee",
+            "paegType": null
+          }
+        ]
+      }
+    },
+    "theme": "BLACK"
+  }
+}
