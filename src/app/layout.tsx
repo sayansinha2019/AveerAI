@@ -6,8 +6,9 @@ import type { Snapshot } from "@/lib/ema";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Ema.ai Replica",
-  description: "High-fidelity local replica of the ema.ai frontend experience.",
+  title: "AVeer AI — Construction automation",
+  description:
+    "AVeer AI: Moving Construction from Predictive Insights to Autonomous Execution. Custom agent development, jobsite data infrastructure, and generative pre-con for general contractors.",
 };
 
 export default function RootLayout({

@@ -1,3 +1,4 @@
+import { SiteLogo } from "@/components/site/site-logo";
 import { isExternalHref, toLocalHref } from "@/lib/ema";
 
 type FooterProps = {
@@ -41,11 +42,11 @@ export function Footer({ footerData }: FooterProps) {
     <footer className="mt-24 bg-[#1f8844] text-white">
       <div className="mx-auto grid w-[min(100%,1180px)] gap-12 px-5 py-16 lg:grid-cols-[1.1fr_1fr_1fr_1fr] lg:px-8">
         <div>
-          <img
-            src="https://www.ema.ai/_next/static/media/ema-logo.267c015f.svg"
-            alt="Ema"
-            className="h-9 w-auto brightness-[12]"
-          />
+          <SiteLogo placement="footer" />
+          <p className="mt-8 max-w-sm text-sm font-medium leading-6 text-white/95">
+            AI for general contractors: custom agents, jobsite data readiness, and generative
+            pre-con — from predictive insight to autonomous execution.
+          </p>
           <p className="mt-10 whitespace-pre-line text-sm leading-7 text-white/90">
             {footerData?.addressLine1}
             {footerData?.addressLine2}

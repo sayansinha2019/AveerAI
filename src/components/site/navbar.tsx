@@ -2,13 +2,12 @@
 
 import { useMemo, useState } from "react";
 
+import { SiteLogo } from "@/components/site/site-logo";
 import { isExternalHref, mediaUrl, toLocalHref } from "@/lib/ema";
 
 type NavbarProps = {
   footerData: any;
 };
-
-const LOGO_URL = "https://www.ema.ai/_next/static/media/ema-logo.267c015f.svg";
 
 export function Navbar({ footerData }: NavbarProps) {
   const [openMenu, setOpenMenu] = useState<string | null>(null);
@@ -33,8 +32,8 @@ export function Navbar({ footerData }: NavbarProps) {
   return (
     <header className="sticky top-0 z-40 border-b border-[#e7e1d6] bg-[#f8f5ee]/92 backdrop-blur-md">
       <div className="mx-auto flex h-20 w-[min(100%,1180px)] items-center justify-between px-5 lg:px-8">
-        <a href="/" className="flex items-center gap-3">
-          <img src={LOGO_URL} alt="Ema" className="h-9 w-auto" />
+        <a href="/" className="flex shrink-0 items-center py-1" aria-label="Home">
+          <SiteLogo placement="header" />
         </a>
 
         <nav className="hidden items-center gap-7 lg:flex">
@@ -106,10 +105,10 @@ export function Navbar({ footerData }: NavbarProps) {
 
         <div className="hidden lg:block">
           <a
-            href={toLocalHref("https://www.ema.ai/hire-ema")}
+            href="/#contact"
             className="rounded-full bg-[#1f8844] px-5 py-3 text-sm font-semibold text-white transition hover:bg-[#186b36]"
           >
-            Hire Ema
+            Contact
           </a>
         </div>
 
@@ -152,10 +151,10 @@ export function Navbar({ footerData }: NavbarProps) {
               </details>
             ))}
             <a
-              href="/"
+              href="/#contact"
               className="mt-2 inline-flex rounded-full bg-[#1f8844] px-5 py-3 text-sm font-semibold text-white"
             >
-              Hire Ema
+              Contact
             </a>
           </div>
         </div>
