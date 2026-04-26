@@ -41,7 +41,7 @@ body {
   font-family: "satoshi", Arial, sans-serif;
 }
 
-a {
+:where(a) {
   color: inherit;
   text-decoration: none;
 }

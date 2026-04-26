@@ -167,7 +167,7 @@ export function Homepage() {
                 <p className="mt-4 max-w-xl text-[15px] leading-8 text-[#5d625e]">{feature.body}</p>
                 <a
                   href="#services"
-                  className="mt-8 inline-flex rounded-full bg-[#111822] px-6 py-3 text-sm font-semibold text-white transition hover:bg-[#1f8844]"
+                  className="mt-8 inline-flex w-fit items-center justify-center rounded-full bg-[#1f8844] px-6 py-3 text-sm font-semibold text-white transition hover:bg-[#186b36]"
                 >
                   {feature.cta}
                 </a>
